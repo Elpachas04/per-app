@@ -1,0 +1,134 @@
+{
+    "tema": "Nomenclatura náutica",
+    "resumenes": {
+      "general": [
+        "Proa: parte delantera del barco.",
+        "Popa: parte trasera.",
+        "Babor: lado izquierdo mirando hacia proa.",
+        "Estribor: lado derecho mirando hacia proa.",
+        "Amura: parte delantera lateral.",
+        "Aleta: parte trasera lateral.",
+        "Costado: lateral del casco.",
+        "Calado: distancia desde la línea de flotación al punto más bajo del casco.",
+        "Manga: anchura máxima del barco.",
+        "Eslora: longitud total del barco.",
+        "Francobordo: distancia entre la línea de flotación y la cubierta.",
+        "Quilla: parte inferior central del casco.",
+        "Timón: superficie que permite dirigir el barco.",
+        "Hélice: impulsa el barco mediante giro.",
+        "Bitas: piezas metálicas donde se amarran cabos."
+      ]
+    },
+    "preguntas": [
+      {
+        "texto": "¿Cómo se llama la parte delantera de una embarcación?",
+        "opciones": ["Proa", "Popa", "Aleta", "Babor"],
+        "correcta": 0,
+        "explicacion": "La proa es la parte delantera de la embarcación."
+      },
+      {
+        "texto": "¿Cuál es la parte trasera de una embarcación?",
+        "opciones": ["Amura", "Popa", "Proa", "Estribor"],
+        "correcta": 1,
+        "explicacion": "La popa es la parte posterior del barco."
+      },
+      {
+        "texto": "¿Qué es la manga de un barco?",
+        "opciones": ["La parte trasera", "La profundidad del casco", "La anchura máxima", "La longitud de la vela"],
+        "correcta": 2,
+        "explicacion": "La manga es la anchura máxima del barco medida de lado a lado."
+      },
+      {
+        "texto": "Si miras hacia la proa, ¿qué lado queda a la izquierda?",
+        "opciones": ["Estribor", "Popa", "Aleta", "Babor"],
+        "correcta": 3,
+        "explicacion": "Babor es el lado izquierdo del barco mirando hacia la proa."
+      },
+      {
+        "texto": "¿Qué parte se encuentra en la zona trasera lateral de un barco?",
+        "opciones": ["Amura", "Aleta", "Costado", "Proa"],
+        "correcta": 1,
+        "explicacion": "La aleta es la parte lateral trasera del casco de un barco."
+      },
+      {
+        "texto": "¿Qué es el calado de un barco?",
+        "opciones": [
+          "La altura desde la quilla hasta la cubierta",
+          "La distancia entre el fondo y la hélice",
+          "La distancia desde la flotación al punto más bajo del casco",
+          "La longitud de la proa"
+        ],
+        "correcta": 2,
+        "explicacion": "El calado es la profundidad que alcanza el casco bajo el agua."
+      },
+      {
+        "texto": "¿Qué elemento permite dirigir la embarcación?",
+        "opciones": ["La quilla", "La hélice", "El timón", "La bita"],
+        "correcta": 2,
+        "explicacion": "El timón es el elemento que permite cambiar la dirección del barco."
+      },
+      {
+        "texto": "¿Qué es la eslora de un barco?",
+        "opciones": [
+          "La distancia entre el mástil y la popa",
+          "La longitud total del casco",
+          "La altura desde la línea de flotación",
+          "La medida de la vela mayor"
+        ],
+        "correcta": 1,
+        "explicacion": "La eslora es la longitud total del barco desde proa hasta popa."
+      },
+      {
+        "texto": "¿Qué es el francobordo?",
+        "opciones": [
+          "La altura del mástil",
+          "La distancia entre la línea de flotación y la cubierta",
+          "La profundidad de la quilla",
+          "La altura de la hélice"
+        ],
+        "correcta": 1,
+        "explicacion": "El francobordo es la distancia vertical entre la línea de flotación y la cubierta del barco."
+      },
+      {
+        "texto": "¿Dónde se ubican las bitas en un barco?",
+        "opciones": [
+          "En la bodega",
+          "En la quilla",
+          "En cubierta, para sujetar cabos",
+          "En el mástil"
+        ],
+        "correcta": 2,
+        "explicacion": "Las bitas son piezas metálicas en cubierta para amarrar cabos."
+      },
+      {
+        "texto": "¿Qué parte del casco va a lo largo por el fondo del barco?",
+        "opciones": ["Timón", "Quilla", "Costado", "Francobordo"],
+        "correcta": 1,
+        "explicacion": "La quilla es la pieza estructural situada en la parte más baja del casco."
+      },
+      {
+        "texto": "¿Qué elemento permite propulsar la embarcación mediante giro?",
+        "opciones": ["Timón", "Mástil", "Ancla", "Hélice"],
+        "correcta": 3,
+        "explicacion": "La hélice transforma el movimiento rotatorio en empuje para mover el barco."
+      },
+      {
+        "texto": "¿Qué zona se encuentra entre proa y popa a lo largo del casco?",
+        "opciones": ["Eslora", "Costado", "Calado", "Amura"],
+        "correcta": 1,
+        "explicacion": "El costado es el lateral del casco que va de proa a popa."
+      },
+      {
+        "texto": "¿Qué es la amura?",
+        "opciones": [
+          "La parte lateral trasera",
+          "La unión entre casco y cubierta",
+          "La parte lateral delantera",
+          "La punta del mástil"
+        ],
+        "correcta": 2,
+        "explicacion": "La amura es la parte del casco situada en el lateral delantero del barco."
+      }
+    ]
+  }
+  

@@ -1,0 +1,27 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Node.js (por si más adelante usas herramientas tipo npm)
+node_modules/
+dist/
+
+# Entornos
+.env
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+
+# Sistema operativo
+ehthumbs.db
+desktop.ini
+
+.qodo/
+.dist/

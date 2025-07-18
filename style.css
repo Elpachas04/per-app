@@ -1,0 +1,307 @@
+/* Reset básico */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f6f8fa;
+    color: #212529;
+    padding: 2rem;
+    line-height: 1.6;
+  }
+  
+  /* Títulos */
+  h1, h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1.2rem;
+    color: #003366;
+    text-align: center;
+  }
+  
+  /* Botones generales */
+  button {
+    padding: 0.6rem 1.2rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    opacity: 0.9;
+  }
+  
+  /* Botones principales */
+  .boton-tema, .boton-subtema, #corregir, #toggleResumen {
+    display: block;
+    margin: 1rem auto;
+    background-color: #007bff;
+    color: white;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .boton-subtema:nth-child(2) {
+    background-color: #28a745;
+  }
+  
+  .boton-subtema:nth-child(3) {
+    background-color: #ffc107;
+    color: #333;
+  }
+  
+  /* Preguntas */
+  .question {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  }
+  
+  .question strong {
+    display: block;
+    font-size: 1.05rem;
+    color: #002244;
+    margin-bottom: 0.75rem;
+  }
+  
+  .question label {
+    display: block;
+    padding: 0.6rem 0.8rem;
+    border: 1px solid transparent;
+    border-radius: 6px;
+    margin-bottom: 0.3rem;
+    transition: all 0.2s ease;
+    cursor: pointer;
+    background-color: #f9f9f9;
+    position: relative;
+  }
+  
+  .question label:hover {
+    background-color: #e0ecff;
+  }
+  
+  input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+  }
+  
+  /* Resultados */
+  .correcto {
+    background-color: #d4edda !important;
+    border: 1px solid #28a745 !important;
+  }
+  
+  .incorrecto {
+    background-color: #f8d7da !important;
+    border: 1px solid #dc3545 !important;
+  }
+  
+  /* Explicación */
+  .explicacion {
+    margin-top: 0.5rem;
+    background: #f1f1f1;
+    padding: 0.5rem;
+    border-radius: 6px;
+    font-style: italic;
+    color: #333;
+  }
+  
+  /* Resumen */
+  #resumen {
+    background-color: #e8f1ff;
+    border-left: 4px solid #007bff;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    border-radius: 6px;
+    font-family: monospace;
+    white-space: pre-wrap;
+    line-height: 1.4;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  }
+  
+  #toggleResumen {
+    margin: 0 auto 1rem auto;
+    background-color: #004080;
+    color: white;
+    font-size: 0.95rem;
+  }
+  
+  /* Cartas centrales comunes */
+  .card-central {
+    background-color: white;
+    padding: 2.5rem 3rem;
+    border-radius: 16px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    width: 100%;
+    text-align: center;
+    animation: fadeIn 0.4s ease-in-out;
+  }
+  
+  /* Página: index.html */
+  .bienvenida-card {
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 2rem 3rem;
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    animation: fadeIn 0.5s ease-in-out;
+  }
+  
+  .bienvenida-card h1 {
+    font-size: 2rem;
+    color: #003366;
+    margin-bottom: 1rem;
+  }
+  
+  .bienvenida-card p {
+    font-size: 1.1rem;
+    color: #333;
+    margin-bottom: 2rem;
+  }
+  
+  .bienvenida-card button {
+    display: block;
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 0.75rem;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  .bienvenida-card button:first-of-type {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .bienvenida-card button:last-of-type {
+    background-color: #28a745;
+    color: white;
+  }
+  
+  .bienvenida-card button:hover {
+    opacity: 0.9;
+  }
+  
+  /* Página: temario.html */
+  .botones-tema .tema-btn {
+    display: block;
+    width: 100%;
+    background-color: #0066cc;
+    color: white;
+    font-size: 1.1rem;
+    padding: 0.8rem;
+    margin-bottom: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  .botones-tema .tema-btn:hover {
+    background-color: #004999;
+  }
+  
+  /* Página: subtema.html */
+  .botones-subtemas .subtema {
+    display: block;
+    width: 100%;
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    color: white;
+    transition: background-color 0.2s ease;
+  }
+  
+  .subtema.nocturnas {
+    background-color: #004080;
+  }
+  
+  .subtema.nocturnas:hover {
+    background-color: #002855;
+  }
+  
+  .subtema.diurnas {
+    background-color: #f39c12;
+  }
+  
+  .subtema.diurnas:hover {
+    background-color: #d68910;
+  }
+  
+  .subtema.todas {
+    background-color: #16a085;
+  }
+  
+  .subtema.todas:hover {
+    background-color: #12806d;
+  }
+  
+  /* Botón volver */
+  #volverAtras {
+    margin: 2rem auto 0;
+    display: block;
+    padding: 0.5rem 1rem;
+    font-size: 0.95rem;
+    background-color: transparent;
+    border: 1px solid #007bff;
+    color: #007bff;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+  }
+  
+  #volverAtras:hover {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  /* Página: layout centrado */
+  body.pagina-inicial,
+  body.pagina-temario,
+  body.pagina-subtema,
+  body.pagina-centro {
+    background: linear-gradient(to bottom, #eaf6ff, #ffffff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 1rem;
+  }
+  
+  /* Wrapper de contenido para boton volver + carta */
+  .temario-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    padding-bottom: 3rem;
+  }
+  
+  /* Animaciones */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  

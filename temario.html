@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Temarios PER</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body class="pagina-centro">
+    <main class="temario-wrapper">
+        <div class="card-central temario-card">
+            <h2>📚 Temarios disponibles</h2>
+            <div class="botones-tema">
+                <button class="tema-btn" onclick="seleccionarTema('luces')">💡 Luces</button>
+                <button class="tema-btn" onclick="seleccionarTema('nomenclatura')">⚓ Nomenclatura</button>
+            </div>
+        </div>
+
+        <button id="volverAtras">⬅ Volver</button>
+    </main>
+
+    <script type="module" src="logic/temario.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tema PER</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <h1></h1>
+
+    <button id="toggleResumen">📘 Ver resumen del tema</button>
+    <div id="resumen"></div>
+    <div id="preguntas"></div>
+    <div id="acciones"></div>
+
+
+    <script type="module" src="app.js"></script>
+    <script type="module">
+        import { insertarBotonVolver, insertarBotonScrollFinal } from './logic/backButton.js';
+        insertarBotonVolver();
+        insertarBotonScrollFinal();
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,462 @@
+{
+    "tema": "Luces de navegación",
+    "resumenes": {
+        "nocturnas": [
+            "Vela: luz roja a babor y verde a estribor.",
+            "Fondeado: una luz blanca todo horizonte.",
+            "Sin gobierno: dos luces rojas en línea vertical.",
+            "Pesca con arrastre: luz verde sobre blanca.",
+            "Pesca sin arrastre: luz roja sobre blanca.",
+            "Remolque: dos luces blancas en línea vertical.",
+            "Práctico: luz blanca intermitente.",
+            "Restringido por calado: tres luces rojas verticales.",
+            "Maniobra restringida: luz roja-blanca-roja.",
+            "Varado: dos luces rojas más luces de fondeo.",
+            "Embarcaciones pequeñas: una linterna blanca visible."
+        ],
+        "diurnas": [
+            "Sin gobierno: dos bolas negras en línea vertical.",
+            "Fondeado: una bola negra en proa.",
+            "Varado: tres bolas negras en línea vertical.",
+            "Pesca con arrastre: dos conos unidos por sus vértices.",
+            "Pesca sin arrastre: cono apuntando hacia abajo.",
+            "Remolque: rombo negro (si remolque largo).",
+            "Restricción de maniobra: cilindro negro.",
+            "Vela con motor encendido: cono con vértice hacia abajo en proa.",
+            "Practico embarcado: bandera 'H' o bandera blanca/roja."
+        ]
+    },
+    "nocturnas": [
+        {
+            "texto": "¿Qué luces muestra una embarcación de práctico cuando está de servicio de noche?",
+            "opciones": [
+                "Luz blanca intermitente",
+                "Luz azul todo horizonte",
+                "Luz blanca fija",
+                "Dos luces rojas"
+            ],
+            "correcta": 0,
+            "explicacion": "Una embarcación de práctico en servicio debe mostrar una luz blanca intermitente visible en todo el horizonte."
+        },
+        {
+            "texto": "¿Qué luces debe llevar un velero menor de 20 metros si no puede instalar luces reglamentarias?",
+            "opciones": [
+                "Linterna blanca visible",
+                "Luz roja fija",
+                "Dos luces blancas intermitentes",
+                "No necesita luces"
+            ],
+            "correcta": 0,
+            "explicacion": "Si no puede mostrar luces reglamentarias, debe tener a mano una linterna blanca visible."
+        },
+        {
+            "texto": "¿Qué luces debe llevar un buque restringido en su maniobra y fondeado de noche?",
+            "opciones": [
+                "Roja – blanca – roja y luz de fondeo",
+                "Dos rojas y dos verdes",
+                "Tres luces blancas",
+                "Una roja sobre azul"
+            ],
+            "correcta": 0,
+            "explicacion": "Un buque con maniobra restringida fondeado debe mostrar roja – blanca – roja además de las luces de fondeo."
+        },
+        {
+            "texto": "¿Qué luces muestra un velero navegando con el motor encendido de noche?",
+            "opciones": [
+                "Luces de propulsión mecánica",
+                "Luz verde sola",
+                "Luz blanca sobre verde",
+                "Luz roja y verde"
+            ],
+            "correcta": 0,
+            "explicacion": "Cuando un velero usa motor, se considera propulsión mecánica y debe mostrar las luces correspondientes (blanca 135°, roja y verde 112,5°)."
+        },
+        {
+            "texto": "¿Qué luces muestra una embarcación dedicada a operaciones de buceo de noche?",
+            "opciones": [
+                "Roja – blanca – roja más bandera 'A'",
+                "Tres verdes verticales",
+                "Dos azules parpadeantes",
+                "Una blanca giratoria"
+            ],
+            "correcta": 0,
+            "explicacion": "Las embarcaciones de buceo muestran luces roja-blanca-roja y la bandera 'A' de día."
+        },
+        {
+            "texto": "¿Qué luces adicionales lleva un remolcador si el remolque es mayor de 200 metros?",
+            "opciones": [
+                "Tres luces blancas en vertical",
+                "Dos luces rojas horizontales",
+                "Una verde sobre azul",
+                "Ninguna, solo marca día"
+            ],
+            "correcta": 0,
+            "explicacion": "Si el remolque es superior a 200 m, se añaden una tercera luz blanca en vertical."
+        },
+        {
+            "texto": "¿Qué luces indica un buque dedicado al dragado si la obstrucción está a estribor?",
+            "opciones": [
+                "Dos rojas a estribor, dos verdes a babor",
+                "Dos verdes a babor, dos rojas a estribor",
+                "Una roja y una verde a proa",
+                "Tres luces blancas horizontales"
+            ],
+            "correcta": 1,
+            "explicacion": "En operaciones de dragado, el lado obstruido lleva dos luces rojas; el lado libre, dos verdes."
+        },
+        {
+            "texto": "¿Qué luces lleva una embarcación sin gobierno con arrancada de noche?",
+            "opciones": [
+                "Dos luces rojas y luz blanca de alcance",
+                "Una luz verde fija",
+                "Tres luces blancas",
+                "Dos luces rojas horizontales"
+            ],
+            "correcta": 0,
+            "explicacion": "Debe mostrar las dos luces rojas (sin gobierno) y también la luz de alcance si está haciendo arrancada (movimiento)."
+        },
+        {
+            "texto": "¿Qué luces debe exhibir un barco de vela navegando de noche?",
+            "opciones": [
+                "Luz roja y verde",
+                "Luz blanca todo horizonte",
+                "Dos luces rojas",
+                "Una luz blanca y una azul"
+            ],
+            "correcta": 0,
+            "explicacion": "Los barcos de vela muestran luz roja (babor) y verde (estribor) para indicar su dirección durante la noche."
+        },
+        {
+            "texto": "¿Qué significa una luz blanca de todo horizonte en un barco?",
+            "opciones": [
+                "Buque sin gobierno",
+                "Remolque",
+                "Fondeado",
+                "Práctico embarcado"
+            ],
+            "correcta": 2,
+            "explicacion": "Una luz blanca visible en todo el horizonte indica que el barco está fondeado."
+        },
+        {
+            "texto": "¿Qué luces indican un buque sin gobierno?",
+            "opciones": [
+                "Dos luces rojas en línea vertical",
+                "Luz blanca y azul",
+                "Una roja sobre una blanca",
+                "Dos luces verdes en línea horizontal"
+            ],
+            "correcta": 0,
+            "explicacion": "Un buque sin gobierno muestra dos luces rojas verticales para indicar que no puede maniobrar."
+        },
+        {
+            "texto": "¿Qué luces lleva un barco de pesca con aparejos de arrastre?",
+            "opciones": [
+                "Verde sobre blanca",
+                "Roja sobre blanca",
+                "Dos luces rojas",
+                "Una verde sola"
+            ],
+            "correcta": 0,
+            "explicacion": "La pesca con arrastre debe exhibir una luz verde sobre una blanca."
+        },
+        {
+            "texto": "¿Qué luces lleva un barco de pesca sin arrastre (ej: palangre)?",
+            "opciones": [
+                "Roja sobre blanca",
+                "Verde sobre blanca",
+                "Dos rojas",
+                "Una roja sola"
+            ],
+            "correcta": 0,
+            "explicacion": "Los buques de pesca sin arrastre muestran una luz roja sobre una blanca."
+        },
+        {
+            "texto": "¿Qué luces muestra un barco remolcando de noche?",
+            "opciones": [
+                "Dos luces blancas en línea vertical",
+                "Dos luces rojas",
+                "Roja sobre verde",
+                "Blanca sobre azul"
+            ],
+            "correcta": 0,
+            "explicacion": "Un remolcador lleva dos luces blancas en línea vertical, además de las luces de costado."
+        },
+        {
+            "texto": "¿Qué indica una luz blanca intermitente en la proa?",
+            "opciones": [
+                "Embarcación de práctico",
+                "Velero con motor encendido",
+                "Señal de peligro",
+                "Barco remolcado"
+            ],
+            "correcta": 0,
+            "explicacion": "Una luz blanca intermitente indica la presencia de un práctico a bordo."
+        },
+        {
+            "texto": "¿Qué luces lleva un buque restringido por su calado?",
+            "opciones": [
+                "Tres luces rojas verticales",
+                "Dos luces verdes",
+                "Una roja sobre blanca",
+                "Dos blancas en línea"
+            ],
+            "correcta": 0,
+            "explicacion": "Los buques restringidos por su calado muestran tres luces rojas verticales."
+        },
+        {
+            "texto": "¿Qué luces indican un buque varado?",
+            "opciones": [
+                "Dos luces rojas más las de fondeo",
+                "Dos verdes sobre blanca",
+                "Tres blancas",
+                "Una sola roja"
+            ],
+            "correcta": 0,
+            "explicacion": "Un buque varado debe mostrar las luces de fondeo más dos luces rojas verticales."
+        },
+        {
+            "texto": "¿Qué luces lleva un buque con capacidad de maniobra restringida?",
+            "opciones": [
+                "Roja – blanca – roja",
+                "Verde – blanca – verde",
+                "Tres rojas",
+                "Dos verdes"
+            ],
+            "correcta": 0,
+            "explicacion": "Roja – blanca – roja indica maniobra restringida (ej: dragado, operaciones subacuáticas)."
+        },
+        {
+            "texto": "¿Qué indica una luz roja a estribor y verde a babor?",
+            "opciones": [
+                "Luces mal instaladas",
+                "Barco de práctico",
+                "Luces de día",
+                "Error de navegación"
+            ],
+            "correcta": 0,
+            "explicacion": "La luz roja va a babor y la verde a estribor. Lo contrario es un error de instalación."
+        },
+        {
+            "texto": "¿Qué luces lleva una embarcación de menos de 7 m sin posibilidad de mostrar luces reglamentarias?",
+            "opciones": [
+                "Una linterna blanca visible a todo horizonte",
+                "Roja y verde",
+                "Dos luces blancas",
+                "Roja sobre blanca"
+            ],
+            "correcta": 0,
+            "explicacion": "Se permite el uso de una linterna blanca visible a todo horizonte si no puede instalar luces fijas."
+        }
+    ],
+    "diurnas": [
+        {
+            "texto": "¿Qué señal diurna indica un buque sin gobierno?",
+            "opciones": [
+                "Dos bolas negras en línea vertical",
+                "Una bola blanca en el palo mayor",
+                "Dos conos negros unidos por sus bases",
+                "Un cilindro negro"
+            ],
+            "correcta": 0,
+            "explicacion": "Un buque sin gobierno muestra dos bolas negras en línea vertical durante el día."
+        },
+        {
+            "texto": "¿Qué marca diurna indica un buque restringido por su calado?",
+            "opciones": [
+                "Cilindro rojo",
+                "Tres bolas negras verticales",
+                "Tres luces verdes horizontales",
+                "Tres conos invertidos"
+            ],
+            "correcta": 1,
+            "explicacion": "Tres bolas negras en línea vertical indican restricción por calado."
+        },
+        {
+            "texto": "¿Qué señal diurna muestra un práctico embarcado?",
+            "opciones": [
+                "Bandera 'H' o bandera blanca sobre roja",
+                "Bandera 'A' o roja sobre blanca",
+                "Dos bolas negras",
+                "Cono negro en proa"
+            ],
+            "correcta": 0,
+            "explicacion": "Un práctico en servicio muestra la bandera 'H' o una bandera blanca sobre una roja."
+        },
+        {
+            "texto": "¿Qué señal indica un barco de vela con el motor encendido?",
+            "opciones": [
+                "Cono negro con vértice hacia abajo en proa",
+                "Dos bolas negras en el palo",
+                "Cilindro negro en el mástil",
+                "Rombo negro en popa"
+            ],
+            "correcta": 0,
+            "explicacion": "Si un velero va con motor, debe mostrar un cono negro con vértice hacia abajo en proa."
+        },
+        {
+            "texto": "¿Qué marca diurna indica un buque de pesca con arrastre?",
+            "opciones": [
+                "Dos conos negros unidos por las puntas",
+                "Dos conos negros unidos por sus bases",
+                "Un rombo negro",
+                "Tres bolas negras"
+            ],
+            "correcta": 0,
+            "explicacion": "La pesca con arrastre debe mostrar dos conos negros unidos por sus vértices (punta con punta)."
+        },
+        {
+            "texto": "¿Qué indica un cono negro apuntando hacia abajo?",
+            "opciones": [
+                "Pesca sin arrastre",
+                "Pesca con arrastre",
+                "Velero con motor",
+                "Sin gobierno"
+            ],
+            "correcta": 0,
+            "explicacion": "Un solo cono apuntando hacia abajo indica pesca sin arrastre."
+        },
+        {
+            "texto": "¿Qué marca diurna indica un remolque largo durante el día?",
+            "opciones": [
+                "Un rombo negro",
+                "Tres bolas negras",
+                "Dos conos invertidos",
+                "Un cono y una bola"
+            ],
+            "correcta": 0,
+            "explicacion": "Los remolques largos (más de 200 m) se marcan con un rombo negro."
+        },
+        {
+            "texto": "¿Qué luces debe exhibir un barco de vela navegando de noche?",
+            "opciones": [
+                "Luz roja y verde",
+                "Luz blanca todo horizonte",
+                "Dos luces rojas",
+                "Una luz blanca y una azul"
+            ],
+            "correcta": 0,
+            "explicacion": "Los barcos de vela muestran luz roja (babor) y verde (estribor) para indicar su dirección durante la noche."
+        },
+        {
+            "texto": "¿Qué significa una luz blanca de todo horizonte en un barco?",
+            "opciones": [
+                "Buque sin gobierno",
+                "Remolque",
+                "Fondeado",
+                "Práctico embarcado"
+            ],
+            "correcta": 2,
+            "explicacion": "Una luz blanca visible en todo el horizonte indica que el barco está fondeado."
+        },
+        {
+            "texto": "¿Qué luces indican un buque sin gobierno?",
+            "opciones": [
+                "Dos luces rojas en línea vertical",
+                "Luz blanca y azul",
+                "Una roja sobre una blanca",
+                "Dos luces verdes en línea horizontal"
+            ],
+            "correcta": 0,
+            "explicacion": "Un buque sin gobierno muestra dos luces rojas verticales para indicar que no puede maniobrar."
+        },
+        {
+            "texto": "¿Qué luces lleva un barco de pesca con aparejos de arrastre?",
+            "opciones": [
+                "Verde sobre blanca",
+                "Roja sobre blanca",
+                "Dos luces rojas",
+                "Una verde sola"
+            ],
+            "correcta": 0,
+            "explicacion": "La pesca con arrastre debe exhibir una luz verde sobre una blanca."
+        },
+        {
+            "texto": "¿Qué luces lleva un barco de pesca sin arrastre (ej: palangre)?",
+            "opciones": [
+                "Roja sobre blanca",
+                "Verde sobre blanca",
+                "Dos rojas",
+                "Una roja sola"
+            ],
+            "correcta": 0,
+            "explicacion": "Los buques de pesca sin arrastre muestran una luz roja sobre una blanca."
+        },
+        {
+            "texto": "¿Qué luces muestra un barco remolcando de noche?",
+            "opciones": [
+                "Dos luces blancas en línea vertical",
+                "Dos luces rojas",
+                "Roja sobre verde",
+                "Blanca sobre azul"
+            ],
+            "correcta": 0,
+            "explicacion": "Un remolcador lleva dos luces blancas en línea vertical, además de las luces de costado."
+        },
+        {
+            "texto": "¿Qué indica una luz blanca intermitente en la proa?",
+            "opciones": [
+                "Embarcación de práctico",
+                "Velero con motor encendido",
+                "Señal de peligro",
+                "Barco remolcado"
+            ],
+            "correcta": 0,
+            "explicacion": "Una luz blanca intermitente indica la presencia de un práctico a bordo."
+        },
+        {
+            "texto": "¿Qué luces lleva un buque restringido por su calado?",
+            "opciones": [
+                "Tres luces rojas verticales",
+                "Dos luces verdes",
+                "Una roja sobre blanca",
+                "Dos blancas en línea"
+            ],
+            "correcta": 0,
+            "explicacion": "Los buques restringidos por su calado muestran tres luces rojas verticales."
+        },
+        {
+            "texto": "¿Qué luces indican un buque varado?",
+            "opciones": [
+                "Dos luces rojas más las de fondeo",
+                "Dos verdes sobre blanca",
+                "Tres blancas",
+                "Una sola roja"
+            ],
+            "correcta": 0,
+            "explicacion": "Un buque varado debe mostrar las luces de fondeo más dos luces rojas verticales."
+        },
+        {
+            "texto": "¿Qué luces lleva un buque con capacidad de maniobra restringida?",
+            "opciones": [
+                "Roja – blanca – roja",
+                "Verde – blanca – verde",
+                "Tres rojas",
+                "Dos verdes"
+            ],
+            "correcta": 0,
+            "explicacion": "Roja – blanca – roja indica maniobra restringida (ej: dragado, operaciones subacuáticas)."
+        },
+        {
+            "texto": "¿Qué indica una luz roja a estribor y verde a babor?",
+            "opciones": [
+                "Luces mal instaladas",
+                "Barco de práctico",
+                "Luces de día",
+                "Error de navegación"
+            ],
+            "correcta": 0,
+            "explicacion": "La luz roja va a babor y la verde a estribor. Lo contrario es un error de instalación."
+        },
+        {
+            "texto": "¿Qué luces lleva una embarcación de menos de 7 m sin posibilidad de mostrar luces reglamentarias?",
+            "opciones": [
+                "Una linterna blanca visible a todo horizonte",
+                "Roja y verde",
+                "Dos luces blancas",
+                "Roja sobre blanca"
+            ],
+            "correcta": 0,
+            "explicacion": "Se permite el uso de una linterna blanca visible a todo horizonte si no puede instalar luces fijas."
+        }
+    ]
+}

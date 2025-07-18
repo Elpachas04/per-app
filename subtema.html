@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Luces - Subtemas</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body class="pagina-centro">
+  <main class="temario-wrapper">
+    <div class="card-central subtema-card">
+      <h2>💡 Luces</h2>
+      <div class="botones-subtemas">
+        <button class="subtema nocturnas" onclick="seleccionarSubtema('nocturnas')">🌙 Nocturnas</button>
+        <button class="subtema diurnas" onclick="seleccionarSubtema('diurnas')">☀️ Diurnas</button>
+        <button class="subtema todas" onclick="seleccionarSubtema('todas')">🧭 Todas</button>
+      </div>
+    </div>
+
+    <button id="volverAtras">⬅ Volver</button>
+  </main>
+
+  <script type="module" src="logic/subtema.js"></script>
+</body>
+
+</html>
