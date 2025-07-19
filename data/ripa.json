@@ -1,0 +1,362 @@
+{
+  "tema": "RIPA",
+  "general": [
+    {
+      "texto": "¿Qué significa una embarcación que muestra una luz blanca todo horizonte?",
+      "opciones": [
+        "Embarcación fondeada",
+        "Embarcación a vela navegando",
+        "Remolcador",
+        "Embarcación de practicaje"
+      ],
+      "correcta": 0,
+      "explicacion": "Una luz blanca todo horizonte indica una embarcación fondeada de noche."
+    },
+    {
+      "texto": "¿Qué embarcación tiene preferencia: una a motor o una a vela?",
+      "opciones": [
+        "La que vaya más rápido",
+        "La de motor",
+        "La de vela",
+        "Depende del tamaño"
+      ],
+      "correcta": 2,
+      "explicacion": "Según el RIPA, una embarcación a vela tiene preferencia sobre una embarcación a motor cuando hay riesgo de abordaje."
+    },
+    {
+      "texto": "¿Qué se debe hacer si dos embarcaciones de motor se aproximan de frente?",
+      "opciones": [
+        "La más pequeña debe virar",
+        "Ambas deben virar a estribor",
+        "Ambas deben virar a babor",
+        "La que viene por la derecha tiene preferencia"
+      ],
+      "correcta": 1,
+      "explicacion": "Cuando dos embarcaciones de motor se aproximan de frente, ambas deben virar a estribor (derecha) para evitar la colisión."
+    },
+    {
+      "texto": "¿Qué marca o luz indica una embarcación sin gobierno?",
+      "opciones": [
+        "Dos bolas negras verticales",
+        "Dos conos unidos por las bases",
+        "Una esfera negra",
+        "Un cilindro negro"
+      ],
+      "correcta": 0,
+      "explicacion": "Una embarcación sin gobierno debe exhibir dos bolas negras verticales visibles de día."
+    },
+    {
+      "texto": "¿Qué luces lleva una embarcación de vela navegando de noche?",
+      "opciones": [
+        "Solo una luz blanca de tope",
+        "Luces de costado (rojo y verde) y luz de alcance blanca",
+        "Dos luces rojas verticales",
+        "Una luz azul intermitente"
+      ],
+      "correcta": 1,
+      "explicacion": "Una embarcación a vela en navegación nocturna debe llevar luces de costado (rojo y verde) y luz de alcance blanca."
+    },
+    {
+      "texto": "¿Qué embarcación debe ceder el paso si una nave a motor se cruza con otra por su estribor?",
+      "opciones": [
+        "La que se cruza por babor",
+        "La que tiene la otra por su estribor",
+        "Ambas deben parar",
+        "La que tiene preferencia es la más grande"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el RIPA, si otra embarcación se aproxima por nuestro estribor, debemos ceder el paso."
+    },
+    {
+      "texto": "¿Cuál es la señal sonora de una embarcación sin gobierno que está haciendo maniobra?",
+      "opciones": [
+        "Tres pitidos cortos",
+        "Un pitido largo",
+        "Cinco pitidos cortos",
+        "Un largo y dos cortos"
+      ],
+      "correcta": 3,
+      "explicacion": "Una embarcación sin gobierno que maniobra emite un largo seguido de dos cortos."
+    },
+    {
+      "texto": "¿Qué indica una señal de niebla de un pitido largo cada 2 minutos?",
+      "opciones": [
+        "Embarcación de practicaje",
+        "Embarcación a vela",
+        "Embarcación con arrancada",
+        "Embarcación sin gobierno"
+      ],
+      "correcta": 2,
+      "explicacion": "Una embarcación con arrancada (en movimiento) debe emitir un pitido largo cada 2 minutos en niebla."
+    },
+    {
+      "texto": "¿Qué forma debe tener la marca de día de una embarcación de vela navegando a motor?",
+      "opciones": [
+        "Una esfera negra",
+        "Dos conos opuestos",
+        "Un cono con vértice hacia abajo",
+        "Un cono con vértice hacia arriba"
+      ],
+      "correcta": 2,
+      "explicacion": "Cuando una embarcación a vela usa su motor, debe mostrar un cono con vértice hacia abajo de día."
+    },
+    {
+      "texto": "¿Qué es una embarcación con capacidad de maniobra restringida?",
+      "opciones": [
+        "Una embarcación militar",
+        "Una embarcación sin timón",
+        "Una embarcación realizando trabajos que limitan su capacidad de maniobrar",
+        "Un velero"
+      ],
+      "correcta": 2,
+      "explicacion": "Una embarcación con maniobra restringida es aquella limitada por la naturaleza de su trabajo (dragado, tendido de cables, etc.)."
+    },
+    {
+      "texto": "¿Qué luces muestra una embarcación sin gobierno de noche?",
+      "opciones": [
+        "Luz blanca todo horizonte",
+        "Dos luces rojas verticales",
+        "Luz verde y roja intermitente",
+        "Tres luces blancas intermitentes"
+      ],
+      "correcta": 1,
+      "explicacion": "Una embarcación sin gobierno muestra de noche dos luces rojas dispuestas verticalmente."
+    },
+    {
+      "texto": "¿Qué embarcaciones tienen preferencia sobre todas las demás?",
+      "opciones": [
+        "Embarcaciones a motor",
+        "Embarcaciones de recreo",
+        "Embarcaciones sin gobierno y con capacidad de maniobra restringida",
+        "Embarcaciones menores de 7 metros"
+      ],
+      "correcta": 2,
+      "explicacion": "Las embarcaciones sin gobierno y las de maniobra restringida tienen prioridad sobre el resto."
+    },
+    {
+      "texto": "¿Qué señal de día identifica a una embarcación con maniobra restringida?",
+      "opciones": [
+        "Una bola negra",
+        "Tres marcas: bola, rombo, bola en línea vertical",
+        "Un cono hacia abajo",
+        "Dos conos base con base"
+      ],
+      "correcta": 1,
+      "explicacion": "Una embarcación con maniobra restringida muestra de día: bola, rombo y bola en línea vertical."
+    },
+    {
+      "texto": "¿Qué señal indica peligro inmediato de colisión?",
+      "opciones": [
+        "Tres pitidos largos",
+        "Cinco pitidos cortos y rápidos",
+        "Una luz blanca intermitente",
+        "Dos pitidos largos"
+      ],
+      "correcta": 1,
+      "explicacion": "Cinco pitidos cortos y rápidos indican duda o peligro inmediato de colisión."
+    },
+    {
+      "texto": "¿Qué luz muestra una embarcación remolcando de noche?",
+      "opciones": [
+        "Tres luces blancas en línea vertical",
+        "Dos luces de tope (blancas), costado y alcance",
+        "Luz amarilla intermitente en proa",
+        "Luz verde y roja intermitente"
+      ],
+      "correcta": 1,
+      "explicacion": "Una embarcación remolcando muestra dos luces de tope blancas, además de luces de costado y luz de alcance."
+    },
+    {
+      "texto": "¿Qué debe hacer una embarcación a vela al acercarse a una embarcación de pesca restringida por sus artes?",
+      "opciones": [
+        "Mantener rumbo y velocidad",
+        "Aumentar velocidad",
+        "Evitarla, cediendo el paso",
+        "Disminuir velocidad y virar a babor"
+      ],
+      "correcta": 2,
+      "explicacion": "Debe ceder el paso, ya que las embarcaciones restringidas por su maniobra tienen preferencia."
+    },
+    {
+      "texto": "¿Qué luces muestra una embarcación de practicaje de noche?",
+      "opciones": [
+        "Rojo sobre blanco en línea vertical",
+        "Dos luces verdes",
+        "Verde sobre rojo",
+        "Blanco sobre azul"
+      ],
+      "correcta": 0,
+      "explicacion": "Una embarcación de practicaje muestra de noche luces verticales: blanca sobre roja (piloto a bordo)."
+    },
+    {
+      "texto": "¿Qué marca indica una embarcación de pesca no de arrastre?",
+      "opciones": [
+        "Dos conos unidos por la base",
+        "Dos conos vértice con vértice",
+        "Dos conos base con base",
+        "Dos esferas negras"
+      ],
+      "correcta": 1,
+      "explicacion": "La marca de dos conos vértice con vértice indica una embarcación de pesca distinta al arrastre."
+    },
+    {
+      "texto": "¿Qué embarcación tiene preferencia: una de pesca o una sin gobierno?",
+      "opciones": [
+        "La de pesca",
+        "Depende del tamaño",
+        "La sin gobierno",
+        "Ninguna tiene preferencia"
+      ],
+      "correcta": 2,
+      "explicacion": "Una embarcación sin gobierno tiene preferencia sobre una de pesca."
+    },
+    {
+      "texto": "¿Qué luz se enciende cuando una embarcación remolca algo con longitud mayor de 200 metros?",
+      "opciones": [
+        "Tres luces de tope (blancas)",
+        "Luz roja adicional",
+        "Dos luces rojas intermitentes",
+        "Luz blanca y verde fija"
+      ],
+      "correcta": 0,
+      "explicacion": "Si el remolque supera los 200 metros, se deben mostrar tres luces de tope blancas."
+    },
+    {
+      "texto": "¿Qué luces muestra una embarcación de pesca con redes de arrastre en navegación nocturna?",
+      "opciones": [
+        "Rojo sobre blanco",
+        "Verde sobre blanco",
+        "Verde sobre rojo",
+        "Dos luces blancas intermitentes"
+      ],
+      "correcta": 1,
+      "explicacion": "Una embarcación de pesca de arrastre muestra dos luces en línea vertical: verde sobre blanco."
+    },
+    {
+      "texto": "¿Qué marca de día indica que una embarcación está remolcando?",
+      "opciones": [
+        "Dos conos base con base",
+        "Un cono hacia abajo",
+        "Un cilindro negro",
+        "Dos bolas negras"
+      ],
+      "correcta": 2,
+      "explicacion": "El cilindro negro es la marca de día que indica que una embarcación está remolcando."
+    },
+    {
+      "texto": "¿Qué luz indica una embarcación de practicaje cuando no tiene el práctico a bordo?",
+      "opciones": [
+        "Roja sobre blanca",
+        "Ninguna especial",
+        "Blanca sobre roja",
+        "Dos luces verdes"
+      ],
+      "correcta": 1,
+      "explicacion": "La embarcación de practicaje muestra blanca sobre roja solo cuando el práctico está a bordo. Si no, no muestra señal especial."
+    },
+    {
+      "texto": "¿Qué luces deben mostrar dos veleros con riesgo de abordaje entre sí por cruce?",
+      "opciones": [
+        "El que tiene viento por babor cede",
+        "El que tiene viento por estribor cede",
+        "Ambos deben virar a babor",
+        "Ambos deben detenerse"
+      ],
+      "correcta": 0,
+      "explicacion": "Cuando dos veleros se cruzan, el que tiene viento por babor debe ceder el paso al otro."
+    },
+    {
+      "texto": "¿Qué se considera una embarcación restringida por su calado?",
+      "opciones": [
+        "Una embarcación a vela",
+        "Un barco que sólo puede navegar dentro de un canal",
+        "Una embarcación sin gobierno",
+        "Un barco militar"
+      ],
+      "correcta": 1,
+      "explicacion": "Es aquella que debido a su gran calado solo puede navegar con seguridad dentro de un canal."
+    },
+    {
+      "texto": "¿Qué marca de día muestra una embarcación restringida por su calado?",
+      "opciones": [
+        "Un cilindro negro",
+        "Un rombo negro",
+        "Una bola negra",
+        "Un cono con vértice hacia abajo"
+      ],
+      "correcta": 0,
+      "explicacion": "Una embarcación restringida por su calado debe mostrar un cilindro negro como marca diurna."
+    },
+    {
+      "texto": "¿Cuántas luces de tope muestra una embarcación a motor de menos de 12 metros?",
+      "opciones": [
+        "Ninguna",
+        "Una",
+        "Dos",
+        "Tres"
+      ],
+      "correcta": 1,
+      "explicacion": "Una embarcación a motor de menos de 12 metros puede llevar solo una luz blanca todo horizonte en vez de las de tope y alcance."
+    },
+    {
+      "texto": "¿Qué embarcación muestra luces rojas y verdes a los lados más una luz blanca por la popa?",
+      "opciones": [
+        "Embarcación de pesca",
+        "Embarcación de vela en navegación nocturna",
+        "Embarcación sin gobierno",
+        "Embarcación remolcada"
+      ],
+      "correcta": 1,
+      "explicacion": "Una embarcación de vela en navegación nocturna muestra luces laterales roja y verde, y una luz blanca de alcance."
+    },
+    {
+      "texto": "¿Qué significa una marca de día con dos conos unidos por la base?",
+      "opciones": [
+        "Embarcación de pesca con redes de arrastre",
+        "Embarcación fondeada",
+        "Embarcación de practicaje",
+        "Embarcación sin gobierno"
+      ],
+      "correcta": 0,
+      "explicacion": "Dos conos unidos por la base indican una embarcación de pesca con redes de arrastre."
+    },
+    {
+      "texto": "¿Cuándo una embarcación a motor debe emitir una señal sonora de maniobra de un pitido corto?",
+      "opciones": [
+        "Cuando gira a babor",
+        "Cuando gira a estribor",
+        "Cuando para la máquina",
+        "Cuando arranca los motores"
+      ],
+      "correcta": 1,
+      "explicacion": "Un pitido corto significa 'altero mi rumbo a estribor'."
+    }
+  ],
+  "resumenes": {
+    "general": [
+      "Las embarcaciones a vela tienen preferencia sobre las de motor, salvo excepciones.",
+      "Dos embarcaciones de motor de frente deben virar ambas a estribor.",
+      "La embarcación que tiene la otra por estribor debe ceder el paso.",
+      "Una luz blanca todo horizonte indica embarcación fondeada.",
+      "Una embarcación sin gobierno muestra dos bolas negras en línea vertical.",
+      "En niebla, una embarcación con arrancada emite un pitido largo cada 2 minutos.",
+      "Una embarcación a vela usando motor debe mostrar un cono con vértice hacia abajo.",
+      "La señal sonora de maniobra es un largo + dos cortos.",
+      "Luces de una embarcación de vela: rojo y verde en costados, blanca de alcance atrás.",
+      "Embarcaciones con maniobra restringida tienen prioridad frente a otras que sí pueden maniobrar libremente.",
+      "Una embarcación sin gobierno muestra de noche dos luces rojas verticales.",
+      "La marca de día para embarcación de maniobra restringida es: bola, rombo, bola.",
+      "Cinco pitidos cortos y rápidos indican duda o peligro de colisión.",
+      "La embarcación remolcando muestra dos (o tres si >200m) luces blancas en línea vertical.",
+      "La embarcación de practicaje muestra blanca sobre roja (noche).",
+      "La embarcación de pesca no de arrastre muestra dos conos vértice con vértice.",
+      "Siempre se debe evitar una embarcación con maniobra restringida o sin gobierno.",
+      "Embarcación de pesca de arrastre muestra luces verde sobre blanco.",
+      "Un cilindro negro indica remolque de día.",
+      "Dos conos base con base = embarcación de pesca con redes de arrastre.",
+      "Embarcación con viento por babor debe ceder al velero con viento por estribor.",
+      "Cilindro negro = marca de día para embarcación restringida por su calado.",
+      "Un pitido corto = altero mi rumbo a estribor."
+    ]
+  }
+}

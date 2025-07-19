@@ -1,0 +1,239 @@
+{
+  "tema": "Emergencias",
+  "general": [
+    {
+      "texto": "¿Qué debe hacerse inmediatamente al producirse una vía de agua a bordo?",
+      "opciones": [
+        "Encender todas las luces",
+        "Informar por radio y taponar la vía si es posible",
+        "Aumentar la velocidad",
+        "Lanzar una bengala roja"
+      ],
+      "correcta": 1,
+      "explicacion": "Ante una vía de agua, se debe informar por radio (emergencia) y tratar de detener la entrada de agua lo antes posible."
+    },
+    {
+      "texto": "¿Qué significa una bengala roja lanzada desde una embarcación?",
+      "opciones": [
+        "Celebración",
+        "Emergencia o solicitud de auxilio",
+        "Avistamiento de tierra",
+        "Comunicación entre barcos"
+      ],
+      "correcta": 1,
+      "explicacion": "Una bengala roja indica peligro o petición de ayuda inmediata según el Código Internacional de Señales."
+    },
+    {
+      "texto": "¿Qué equipo es obligatorio para detectar incendios en una embarcación de recreo?",
+      "opciones": [
+        "Radar",
+        "Extintores portátiles",
+        "Radiobaliza",
+        "Aros salvavidas"
+      ],
+      "correcta": 1,
+      "explicacion": "Los extintores son obligatorios para actuar ante fuegos a bordo."
+    },
+    {
+      "texto": "¿Qué se debe hacer si un tripulante cae al agua?",
+      "opciones": [
+        "Lanzar una bengala blanca",
+        "Seguir navegando hasta pedir ayuda",
+        "Gritar 'hombre al agua', lanzar un salvavidas y maniobrar para recogerlo",
+        "Sumergirse tras él"
+      ],
+      "correcta": 2,
+      "explicacion": "Se debe gritar 'hombre al agua', marcar posición, lanzar salvavidas y maniobrar para rescatar al tripulante."
+    },
+    {
+      "texto": "¿Qué canal de radio se utiliza para emergencias marítimas?",
+      "opciones": [
+        "Canal 06",
+        "Canal 13",
+        "Canal 09",
+        "Canal 16"
+      ],
+      "correcta": 3,
+      "explicacion": "El canal 16 de VHF es el canal internacional de socorro y llamadas de emergencia."
+    },
+    {
+      "texto": "¿Qué hacer si hay fuego en la sala de máquinas?",
+      "opciones": [
+        "Abrir puertas para que entre aire",
+        "Dirigir aire comprimido al fuego",
+        "Cerrar entradas de aire, apagar el motor y usar extintores adecuados",
+        "Rociar con agua dulce"
+      ],
+      "correcta": 2,
+      "explicacion": "Debe cortarse el oxígeno cerrando ventilaciones, apagar motores y usar extintores adecuados sin abrir la sala."
+    },
+    {
+      "texto": "¿Cuál es la señal de socorro internacional más común por radio?",
+      "opciones": [
+        "MAYDAY",
+        "PAN-PAN",
+        "SECURITÉ",
+        "MAYMAY"
+      ],
+      "correcta": 0,
+      "explicacion": "MAYDAY es la palabra clave de llamada de emergencia grave por radio."
+    },
+    {
+      "texto": "¿Qué equipo debe llevarse obligatoriamente para flotabilidad personal?",
+      "opciones": [
+        "Aro salvavidas decorativo",
+        "Bengalas",
+        "Chalecos salvavidas homologados",
+        "Inflador manual"
+      ],
+      "correcta": 2,
+      "explicacion": "Los chalecos salvavidas homologados son obligatorios para todas las personas a bordo."
+    },
+    {
+      "texto": "¿Qué significa el mensaje de radio 'PAN-PAN'?",
+      "opciones": [
+        "Emergencia vital",
+        "Mensaje rutinario",
+        "Urgencia (sin peligro inmediato para la vida)",
+        "Evacuación médica"
+      ],
+      "correcta": 2,
+      "explicacion": "'PAN-PAN' se usa para situaciones de urgencia pero sin riesgo inmediato para la vida o la embarcación."
+    },
+    {
+      "texto": "¿Qué hacer si una embarcación colisiona con un objeto flotante?",
+      "opciones": [
+        "Seguir navegando lentamente",
+        "Activar sistema GPS",
+        "Comprobar daños, controlar agua, alertar por radio si es necesario",
+        "Esperar ayuda sin tomar medidas"
+      ],
+      "correcta": 2,
+      "explicacion": "Ante una colisión, se deben comprobar daños estructurales, controlar entrada de agua y comunicar si hay riesgo."
+    },
+    {
+      "texto": "¿Qué color deben tener las bengalas para indicar emergencia?",
+      "opciones": [
+        "Verde",
+        "Amarilla",
+        "Roja",
+        "Blanca"
+      ],
+      "correcta": 2,
+      "explicacion": "Las bengalas rojas indican socorro o petición de auxilio, según el Código Internacional de Señales."
+    },
+    {
+      "texto": "¿Qué precaución debe tomarse si se usa un extintor dentro de una sala cerrada?",
+      "opciones": [
+        "Ventilar antes de usarlo",
+        "Mantenerse dentro sin protección",
+        "No usar si el fuego es eléctrico",
+        "No abrir la sala si hay fuego dentro"
+      ],
+      "correcta": 3,
+      "explicacion": "Nunca se debe abrir una sala cerrada con fuego dentro; abrirla aviva las llamas al entrar oxígeno."
+    },
+    {
+      "texto": "¿Qué equipo mejora la localización en caso de naufragio?",
+      "opciones": [
+        "Cañas de pescar",
+        "Radiobaliza (EPIRB)",
+        "Extintor de CO₂",
+        "Radar"
+      ],
+      "correcta": 1,
+      "explicacion": "La radiobaliza EPIRB transmite la posición del naufragio a los servicios de rescate."
+    },
+    {
+      "texto": "¿Qué tipo de señal sonora puede utilizarse para indicar socorro?",
+      "opciones": [
+        "Tres pitadas cortas",
+        "Un tono largo continuo",
+        "Disparos con arma de fuego cada minuto",
+        "Campanadas seguidas"
+      ],
+      "correcta": 2,
+      "explicacion": "El Código Internacional permite usar disparos repetidos como señal de emergencia, aunque no es habitual en recreo."
+    },
+    {
+      "texto": "¿Qué debe contener un botiquín básico en una embarcación de recreo?",
+      "opciones": [
+        "Solamente tiritas y algodón",
+        "Material de cura, vendas, analgésicos básicos",
+        "Medicamentos de uso restringido",
+        "Solo pastillas para el mareo"
+      ],
+      "correcta": 1,
+      "explicacion": "El botiquín debe contener elementos básicos de primeros auxilios como gasas, vendas, desinfectante, analgésicos comunes."
+    },
+    {
+      "texto": "¿Qué se debe hacer si se produce una varada?",
+      "opciones": [
+        "Aumentar velocidad para liberarse",
+        "Llamar a salvamento, evaluar daños, intentar salir solo si es seguro",
+        "Saltar por la borda",
+        "Encender todas las luces y esperar ayuda sin actuar"
+      ],
+      "correcta": 1,
+      "explicacion": "En caso de varada, debe evaluarse la situación y solo maniobrar si no hay riesgo mayor; se debe informar por radio si hay peligro."
+    },
+    {
+      "texto": "¿Cuál es el procedimiento correcto ante una evacuación de emergencia?",
+      "opciones": [
+        "Abandonar primero sin avisar a nadie",
+        "Lanzarse al agua sin chaleco",
+        "Avisar por radio, preparar equipo, usar chaleco salvavidas",
+        "Esperar orden escrita del patrón"
+      ],
+      "correcta": 2,
+      "explicacion": "Ante evacuación, debe informarse por radio, prepararse adecuadamente y abandonar la embarcación de forma ordenada con chaleco."
+    },
+    {
+      "texto": "¿Qué precaución es obligatoria cuando se transportan líquidos inflamables a bordo?",
+      "opciones": [
+        "Mantenerlos cerca del motor",
+        "Almacenarlos en compartimentos ventilados y cerrados",
+        "Abrirlos cerca de la cocina",
+        "Guardarlos en cubierta expuestos al sol"
+      ],
+      "correcta": 1,
+      "explicacion": "Los líquidos inflamables deben almacenarse en compartimentos ventilados y protegidos del calor o chispas."
+    },
+    {
+      "texto": "¿Qué señal acústica representa peligro inminente?",
+      "opciones": [
+        "Cinco pitadas cortas",
+        "Un solo toque de bocina",
+        "Una campanada prolongada",
+        "Tres toques seguidos"
+      ],
+      "correcta": 0,
+      "explicacion": "Cinco pitadas cortas son la señal de peligro o desacuerdo con la maniobra de otro buque."
+    },
+    {
+      "texto": "¿Qué medida es fundamental antes de utilizar una bengala de mano?",
+      "opciones": [
+        "Encenderla dentro del camarote",
+        "Apuntar a los ojos del rescatador",
+        "Leer las instrucciones y usarla a barlovento (viento en contra)",
+        "Guardarla sin funda"
+      ],
+      "correcta": 2,
+      "explicacion": "Las bengalas deben usarse siguiendo instrucciones y alejadas del cuerpo, a barlovento para evitar que el humo y chispas entren en contacto."
+    }
+  ],
+  "resumenes": {
+    "general": [
+      "Canal 16 VHF = canal internacional de socorro.",
+      "'MAYDAY' = emergencia grave, 'PAN-PAN' = urgencia sin riesgo vital.",
+      "Bengalas rojas indican auxilio.",
+      "Hombre al agua: gritar, lanzar salvavidas, maniobrar.",
+      "Extintores portátiles son obligatorios para incendios.",
+      "En caso de fuego en la sala de máquinas: cerrar entradas de aire, apagar motor y usar extintores.",
+      "Vía de agua: informar y taponar si es posible.",
+      "Chalecos salvavidas homologados son obligatorios.",
+      "Radiobaliza EPIRB útil en emergencias (según zona).",
+      "Ante colisión: revisar daños, controlar agua, alertar por radio si hay peligro."
+    ]
+  }
+}

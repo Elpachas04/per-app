@@ -4,80 +4,85 @@ Esta aplicación web permite estudiar y practicar el temario oficial del examen 
 
 ---
 
-## 🧭 Funcionalidades
+## 🧭 Funcionalidades principales
 
-- ✅ Modo Repaso: corrige al instante al seleccionar una opción
-- ✅ Modo Examen: muestra el botón "Corregir examen" al final
-- ✅ Navegación estructurada por tema y subtema (como "Luces")
-- ✅ Preguntas aleatorias y resumen teórico incluido
-- ✅ Botón "Volver" inteligente que respeta el árbol de navegación
-- ✅ Diseño responsive básico y limpio
+- ✅ Modo Repaso: corrige al instante al seleccionar una opción  
+- ✅ Modo Examen: muestra el botón "Corregir examen" al final  
+- ✅ Navegación estructurada por tema y subtema (ej. "Luces")  
+- ✅ Preguntas aleatorias y resumen teórico incluido  
+- ✅ Botón "Volver" inteligente que respeta el árbol de navegación  
+- ✅ Agrupación visual por tipo de luz (diurna, nocturna, todas)  
+- ✅ Botón flotante "⬇ Ir al final"  
+- ✅ Diseño responsive básico y limpio  
 
 ---
 
-## 📂 Estructura de carpetas
+## 📂 Estructura del proyecto
 
 ```
 per-app/
-│
 ├── index.html               # Página inicial
 ├── temario.html             # Lista de temas
 ├── subtema.html             # Selección de subtemas (ej: luces)
 ├── tema.html                # Vista de preguntas por tema/subtema
 ├── preguntas.html           # Vista alternativa de preguntas
+├── style.css                # Estilos globales
+├── config.js                # Configuración global de modo y URL
+├── app.js                   # Carga dinámica de preguntas y lógica principal
 │
-├── style.css                # Estilo global
+├── logic/                   # Lógica modular de la aplicación
+│   ├── index.js
+│   ├── temario.js
+│   ├── subtema.js
+│   ├── navigation.js
+│   ├── backButton.js
+│   ├── render.js
+│   ├── events.js
+│   ├── helpers.js
+│   └── utils.js
 │
-├── data/                    # Preguntas en formato JSON
-│   ├── luces.json
-│   └── nomenclatura.json
-│
-└── logic/                   # JavaScript modular
-    ├── backButton.js
-    ├── navigation.js
-    ├── temario.js
-    ├── subtema.js
-    ├── render.js
-    └── events.js
+├── data/                    # Preguntas en formato JSON por tema
+│   ├── nomenclatura.json
+│   ├── seguridad.json
+│   ├── balizamiento.json
+│   ├── ripa.json
+│   ├── amarre_fondeo.json
+│   ├── legislacion.json
+│   ├── maniobra.json
+│   ├── meteorologia.json
+│   ├── navegacion.json
+│   ├── carta.json
+│   ├── emergencias.json
+│   └── luces.json
 ```
 
 ---
 
-## 📦 Cómo usar
+## ▶️ Uso
 
-1. Abre `index.html` con Live Server o en tu navegador local.
-2. Selecciona un modo (repaso o examen).
-3. Elige un tema → subtema → empieza a practicar.
-4. En modo examen, puedes corregir al final.
-5. Usa el botón "Volver" para navegar entre pantallas.
+Puedes abrir directamente `index.html` en un navegador moderno para empezar a usar la aplicación de forma offline.
 
 ---
 
-## 📁 Requisitos
+## 📦 Desarrollo
 
-- No requiere backend
-- Funciona 100% en navegador moderno (Chrome, Firefox, Edge)
-- Puedes alojarla en GitHub Pages, Netlify o localmente
+Puedes editar y mejorar esta app fácilmente. Todos los módulos JavaScript están en `logic/`, y las preguntas están en `data/` en formato JSON.
 
 ---
 
-## 📌 Temas incluidos
+## 📌 Pendiente / Mejora futura
 
-- Luces: diurnas, nocturnas, todas
-- Nomenclatura (y más temas próximamente)
-
----
-
-## 🚧 En desarrollo
-
-- Mejora visual del estilo general
-- Nuevos temas (balizamiento, RIPA, seguridad, etc.)
-- Animaciones suaves entre pantallas
-- Exportar resultados
+- Mejora visual de `index.html` y `temario.html`  
+- Posible integración con backend para guardar progreso  
+- Compatibilidad total en móviles pequeños  
+- Implementar cronómetro en modo examen  
+- Sonido o feedback visual adicional para respuestas correctas/incorrectas  
 
 ---
 
-## 📚 Créditos
+## ✅ Créditos
 
-Creado como herramienta de estudio personal para el examen PER Barcelona 2025.  
-Si te ha sido útil, ¡compártela con tus compañeros de curso! 😊
+Desarrollado por Antony Pachas – 2025  
+App educativa sin ánimo de lucro, orientada a facilitar el estudio del PER en España.
+
+---

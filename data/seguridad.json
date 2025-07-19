@@ -1,0 +1,244 @@
+{
+  "tema": "Seguridad",
+  "general": [
+    {
+      "texto": "¿Qué elementos de seguridad deben estar al alcance de la tripulación?",
+      "opciones": [
+        "Las bengalas, la radio y el GPS",
+        "El ancla, el botiquín y la hélice",
+        "Los chalecos salvavidas, el extintor y la balsa",
+        "El radar, el motor auxiliar y el timón"
+      ],
+      "correcta": 2,
+      "explicacion": "Es fundamental que la tripulación tenga acceso rápido a chalecos, extintores y balsa salvavidas en caso de emergencia."
+    },
+    {
+      "texto": "¿Qué indica una señal de socorro con una bandera naranja y un círculo negro?",
+      "opciones": [
+        "Zona de baño próxima",
+        "Posición peligrosa",
+        "Emergencia y necesidad de ayuda",
+        "Boya de fondeo próxima"
+      ],
+      "correcta": 2,
+      "explicacion": "La bandera naranja con círculo negro es una señal internacional de socorro."
+    },
+    {
+      "texto": "¿Cuál es la función del espejo de señales en una embarcación?",
+      "opciones": [
+        "Comprobar el reflejo del sol para regular la temperatura",
+        "Mandar señales luminosas reflejando el sol para alertar a rescatadores",
+        "Ver otras embarcaciones desde la cabina",
+        "Protegerse del sol"
+      ],
+      "correcta": 1,
+      "explicacion": "El espejo de señales permite reflejar la luz solar y emitir destellos visibles a larga distancia."
+    },
+    {
+      "texto": "¿Cuántos chalecos salvavidas deben llevarse a bordo?",
+      "opciones": [
+        "Solo para el patrón",
+        "Uno por cada tripulante más uno de repuesto",
+        "Dos por cada tripulante",
+        "Uno por cada tripulante"
+      ],
+      "correcta": 3,
+      "explicacion": "Debe haber al menos un chaleco salvavidas por cada persona a bordo."
+    },
+    {
+      "texto": "¿Cuándo se debe utilizar el arnés de seguridad en cubierta?",
+      "opciones": [
+        "Solo cuando hace buen tiempo",
+        "Siempre que se navegue a vela",
+        "Cuando haya mala mar o navegación nocturna",
+        "Al fondear"
+      ],
+      "correcta": 2,
+      "explicacion": "El arnés se usa en condiciones de riesgo como mala mar o poca visibilidad para evitar caídas por la borda."
+    },
+    {
+      "texto": "¿Qué tipo de bengala es adecuada para utilizar durante el día?",
+      "opciones": [
+        "De mano de luz blanca",
+        "Cohete con paracaídas rojo",
+        "Bengala de humo naranja",
+        "Bengala de luz verde"
+      ],
+      "correcta": 2,
+      "explicacion": "Durante el día, se usan bengalas de humo naranja por su alta visibilidad."
+    },
+    {
+      "texto": "¿Cómo se debe utilizar un extintor a bordo?",
+      "opciones": [
+        "Desde lejos apuntando al techo",
+        "A ras de suelo, en dirección a la base del fuego",
+        "Con la boquilla apuntando hacia arriba",
+        "Rociando a los tripulantes"
+      ],
+      "correcta": 1,
+      "explicacion": "Siempre se debe apuntar a la base del fuego y mantener el extintor en posición vertical."
+    },
+    {
+      "texto": "¿Qué se debe hacer si una persona cae al agua?",
+      "opciones": [
+        "Gritar fuerte y virar a estribor",
+        "Soltar la vela y virar a babor",
+        "Lanzar un aro salvavidas y mantener contacto visual",
+        "Encender las luces de navegación"
+      ],
+      "correcta": 2,
+      "explicacion": "Lo correcto es lanzar un aro salvavidas y mantener a la persona a la vista en todo momento."
+    },
+    {
+      "texto": "¿Qué elemento de seguridad está diseñado para emitir una señal de radiofrecuencia automática?",
+      "opciones": [
+        "GPS portátil",
+        "RADAR",
+        "Radiobaliza (EPIRB)",
+        "Sonda náutica"
+      ],
+      "correcta": 2,
+      "explicacion": "La radiobaliza EPIRB se activa en emergencias y envía una señal de socorro vía satélite."
+    },
+    {
+      "texto": "¿Qué se debe comprobar en los chalecos salvavidas antes de zarpar?",
+      "opciones": [
+        "Que floten en agua dulce",
+        "Que estén bien inflados y en buen estado",
+        "Que sean del mismo color",
+        "Que pesen menos de 3 kg"
+      ],
+      "correcta": 1,
+      "explicacion": "Hay que revisar su estado general, flotabilidad, correas y que no estén dañados."
+    },
+    {
+      "texto": "¿Qué documentación es obligatoria llevar a bordo de una embarcación de recreo?",
+      "opciones": [
+        "Solo la del patrón",
+        "Licencia de pesca y pasaporte",
+        "Certificado de navegabilidad, seguro y rol de despacho",
+        "Manual del motor y guía turística"
+      ],
+      "correcta": 2,
+      "explicacion": "Es obligatorio llevar el certificado de navegabilidad, seguro en vigor y rol de despacho si procede."
+    },
+    {
+      "texto": "¿Qué significa que un extintor esté caducado?",
+      "opciones": [
+        "Debe usarse antes que los nuevos",
+        "Puede causar una explosión",
+        "Debe reemplazarse o recargarse",
+        "Aumenta su presión"
+      ],
+      "correcta": 2,
+      "explicacion": "Un extintor caducado pierde efectividad y debe reemplazarse o ser recargado para garantizar su funcionamiento."
+    },
+    {
+      "texto": "¿Qué hacer si hay fuego en el motor dentro del compartimento?",
+      "opciones": [
+        "Abrir la tapa y rociar agua",
+        "Cerrar el suministro de combustible y usar extintor sin abrir el compartimento",
+        "Encender el ventilador",
+        "Tirar agua salada con un cubo"
+      ],
+      "correcta": 1,
+      "explicacion": "No debe abrirse el compartimento; se debe usar un sistema de extinción sin alimentar el fuego con oxígeno."
+    },
+    {
+      "texto": "¿Qué es el 'hombre al agua'?",
+      "opciones": [
+        "Un ejercicio militar",
+        "Una maniobra de fondeo",
+        "La caída de una persona por la borda",
+        "Un tipo de señal pirotécnica"
+      ],
+      "correcta": 2,
+      "explicacion": "El término 'hombre al agua' se refiere a la situación de una persona que ha caído al mar desde una embarcación."
+    },
+    {
+      "texto": "¿Qué equipos de seguridad deben revisarse periódicamente?",
+      "opciones": [
+        "Solo el GPS y la radio",
+        "Todos: extintores, bengalas, chalecos y botiquín",
+        "Únicamente los chalecos",
+        "Solo la balsa salvavidas"
+      ],
+      "correcta": 1,
+      "explicacion": "Todo el material de seguridad debe estar en buen estado, sin caducar y listo para su uso."
+    },
+    {
+      "texto": "¿Qué se debe hacer si una bengala no se enciende?",
+      "opciones": [
+        "Encender otra y desechar la defectuosa con precaución",
+        "Tirarla al mar de inmediato",
+        "Guardar la bengala por seguridad",
+        "Apuntar a la tripulación"
+      ],
+      "correcta": 0,
+      "explicacion": "Si una bengala falla, se debe usar otra y manipular la defectuosa con extremo cuidado para evitar accidentes."
+    },
+    {
+      "texto": "¿Cuál es el propósito del botiquín a bordo?",
+      "opciones": [
+        "Cumplir con un requisito legal",
+        "Tratar emergencias médicas básicas",
+        "Curar enfermedades tropicales",
+        "Transportar medicamentos caducados"
+      ],
+      "correcta": 1,
+      "explicacion": "El botiquín debe contener los elementos básicos para primeros auxilios en caso de emergencia médica a bordo."
+    },
+    {
+      "texto": "¿Qué función tiene la radio VHF en materia de seguridad?",
+      "opciones": [
+        "Contactar con otros barcos para charlar",
+        "Sintonizar música",
+        "Emitir llamadas de socorro y comunicarse con Salvamento Marítimo",
+        "Usarla como radar"
+      ],
+      "correcta": 2,
+      "explicacion": "La radio VHF es esencial para comunicaciones de emergencia y alertas de socorro."
+    },
+    {
+      "texto": "¿Qué maniobra es prioritaria ante una vía de agua?",
+      "opciones": [
+        "Abandonar el barco",
+        "Apagar el motor y sacar la radio",
+        "Intentar achicar e identificar la fuente",
+        "Encender todas las luces"
+      ],
+      "correcta": 2,
+      "explicacion": "Lo primero es intentar controlar la entrada de agua y reducir la vía si es posible antes de evacuar."
+    },
+    {
+      "texto": "¿Cuál es la señal de socorro acústica reconocida internacionalmente?",
+      "opciones": [
+        "3 pitidos largos",
+        "Un solo pitido corto",
+        "6 pitidos cortos y 1 largo",
+        "Continuo de campana"
+      ],
+      "correcta": 2,
+      "explicacion": "La señal acústica internacional de socorro es 6 señales cortas y 1 larga, repetidas periódicamente."
+    }
+  ],
+  "resumenes": {
+    "general": [
+      "Revisa el parte meteorológico antes de zarpar.",
+      "A bordo debe haber chalecos salvavidas para todos los tripulantes.",
+      "Las bengalas deben usarse adecuadamente: de humo de día, de luz de noche.",
+      "El extintor debe usarse apuntando a la base del fuego.",
+      "El arnés de seguridad es obligatorio en mala mar o navegación nocturna.",
+      "El espejo de señales y la bandera naranja con círculo negro sirven para pedir socorro.",
+      "La radiobaliza EPIRB emite señal de emergencia vía satélite.",
+      "Los equipos de seguridad deben estar accesibles y en buen estado.",
+      "Ante un hombre al agua: lanzar salvavidas, contacto visual, maniobrar con precaución.",
+      "La balsa salvavidas se usa para evacuar en emergencias graves.",
+      "Revisar periódicamente extintores, bengalas, chalecos y botiquín.",
+      "Usar la radio VHF en caso de emergencia o para comunicar con Salvamento Marítimo.",
+      "Ante una vía de agua, primero intentar achicar e identificar la fuente.",
+      "El fuego en el motor se combate sin abrir el compartimento.",
+      "La señal de socorro acústica reconocida es: 6 cortas + 1 larga."
+    ]
+  }
+}

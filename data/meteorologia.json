@@ -1,0 +1,127 @@
+{
+  "tema": "Meteorológia",
+  "general": [
+    {
+      "texto": "¿Qué instrumento mide la presión atmosférica?",
+      "opciones": [
+        "Anemómetro",
+        "Barómetro",
+        "Higrómetro",
+        "Termómetro"
+      ],
+      "correcta": 1,
+      "explicacion": "El barómetro mide la presión atmosférica, dato fundamental para prever cambios de tiempo."
+    },
+    {
+      "texto": "¿Qué indica una bajada rápida de la presión atmosférica?",
+      "opciones": [
+        "Estabilidad meteorológica",
+        "Cambio a tiempo soleado",
+        "Posible empeoramiento del tiempo",
+        "Descenso de la temperatura"
+      ],
+      "correcta": 2,
+      "explicacion": "Una bajada rápida de presión suele indicar la llegada de una borrasca o mal tiempo."
+    },
+    {
+      "texto": "¿Qué es una borrasca?",
+      "opciones": [
+        "Zona de altas presiones",
+        "Zona de bajas presiones",
+        "Fenómeno eléctrico",
+        "Un tipo de ola"
+      ],
+      "correcta": 1,
+      "explicacion": "Una borrasca es una zona de baja presión, generalmente asociada a mal tiempo."
+    },
+    {
+      "texto": "¿Qué es una isobara?",
+      "opciones": [
+        "Línea que une puntos de igual temperatura",
+        "Línea que une puntos de igual humedad",
+        "Línea que une puntos de igual presión atmosférica",
+        "Línea que une puntos con igual velocidad del viento"
+      ],
+      "correcta": 2,
+      "explicacion": "Las isobaras unen puntos de igual presión en los mapas meteorológicos."
+    },
+    {
+      "texto": "¿Qué es una galerna?",
+      "opciones": [
+        "Una ola grande y aislada",
+        "Un tipo de niebla costera",
+        "Un viento repentino y fuerte del NW en el Cantábrico",
+        "Una corriente cálida"
+      ],
+      "correcta": 2,
+      "explicacion": "La galerna es un viento muy peligroso y repentino del noroeste, frecuente en la costa Cantábrica."
+    },
+    {
+      "texto": "¿Qué indica un anemómetro?",
+      "opciones": [
+        "La presión del aire",
+        "La dirección y velocidad del viento",
+        "La humedad del ambiente",
+        "El oleaje"
+      ],
+      "correcta": 1,
+      "explicacion": "El anemómetro indica la velocidad del viento, y en algunos modelos también su dirección."
+    },
+    {
+      "texto": "¿Qué significa el parte meteorológico 'marejadilla'?",
+      "opciones": [
+        "Mar muy agitada",
+        "Viento de más de 30 nudos",
+        "Olas de 0.1 a 0.5 metros",
+        "Condiciones extremas"
+      ],
+      "correcta": 2,
+      "explicacion": "'Marejadilla' según la escala Douglas, indica olas entre 0.1 y 0.5 metros, condiciones generalmente seguras."
+    },
+    {
+      "texto": "¿Qué viento predomina en el litoral mediterráneo en verano?",
+      "opciones": [
+        "Levante",
+        "Mistral",
+        "Tramontana",
+        "Poniente"
+      ],
+      "correcta": 0,
+      "explicacion": "En verano, el Levante (este) es habitual en el Mediterráneo, especialmente en la costa sur y levante español."
+    },
+    {
+      "texto": "¿Cuál es el principal peligro de la niebla para la navegación?",
+      "opciones": [
+        "Aumento de la presión",
+        "Reducción de la visibilidad",
+        "Falta de viento",
+        "Olas altas"
+      ],
+      "correcta": 1,
+      "explicacion": "La niebla reduce gravemente la visibilidad, dificultando la navegación segura."
+    },
+    {
+      "texto": "¿Qué se debe hacer si se aproxima una tormenta eléctrica?",
+      "opciones": [
+        "Buscar refugio bajo una vela",
+        "Seguir navegando a motor",
+        "Evitar zonas elevadas, alejarse de mástiles y partes metálicas",
+        "Nadar para alejarse del barco"
+      ],
+      "correcta": 2,
+      "explicacion": "Durante una tormenta eléctrica hay que alejarse de objetos metálicos y no tocar partes expuestas del barco."
+    }
+  ],
+  "resumenes": {
+    "general": [
+      "El barómetro mide la presión atmosférica. Una bajada indica mal tiempo.",
+      "Las borrascas son zonas de baja presión. Las isobaras unen puntos de igual presión.",
+      "Una galerna es un viento súbito y fuerte del NW en el Cantábrico.",
+      "El anemómetro mide la velocidad del viento.",
+      "'Marejadilla' indica olas entre 0.1 y 0.5 m según la escala Douglas.",
+      "En verano predomina el viento Levante en el Mediterráneo.",
+      "La niebla reduce la visibilidad. Es un peligro importante.",
+      "En tormentas eléctricas, alejarse de mástiles y partes metálicas."
+    ]
+  }
+}

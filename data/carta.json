@@ -1,0 +1,128 @@
+{
+  "tema": "Carta náutica",
+  "general": [
+    {
+      "texto": "¿Qué instrumento se utiliza para medir ángulos sobre la carta náutica?",
+      "opciones": [
+        "Compás de puntas",
+        "Transportador náutico",
+        "Sonda",
+        "Anemómetro"
+      ],
+      "correcta": 1,
+      "explicacion": "El transportador náutico se usa para medir ángulos, como rumbos y demoras, sobre la carta náutica."
+    },
+    {
+      "texto": "¿Qué valor tiene una milla náutica?",
+      "opciones": [
+        "1.500 metros",
+        "1.640 metros",
+        "1.852 metros",
+        "2.000 metros"
+      ],
+      "correcta": 2,
+      "explicacion": "Una milla náutica equivale a 1.852 metros, basada en un minuto de arco en el meridiano terrestre."
+    },
+    {
+      "texto": "¿Qué es una demora verdadera?",
+      "opciones": [
+        "Ángulo entre la proa del barco y el objeto observado",
+        "Ángulo entre el norte geográfico y el objeto observado",
+        "Distancia entre dos puntos",
+        "Diferencia entre rumbo y marcación"
+      ],
+      "correcta": 1,
+      "explicacion": "La demora verdadera es el ángulo desde el norte verdadero hasta el objeto observado."
+    },
+    {
+      "texto": "¿Qué representa una línea batimétrica en una carta náutica?",
+      "opciones": [
+        "Un lugar con fuerte viento",
+        "Una zona de tráfico marítimo",
+        "Una línea de igual profundidad",
+        "Una línea de igual temperatura del mar"
+      ],
+      "correcta": 2,
+      "explicacion": "Las batimétricas son líneas que unen puntos de igual profundidad en el fondo marino."
+    },
+    {
+      "texto": "¿Qué fórmula básica se usa para calcular una distancia recorrida?",
+      "opciones": [
+        "Distancia = Tiempo / Velocidad",
+        "Tiempo = Distancia x Velocidad",
+        "Distancia = Velocidad x Tiempo",
+        "Velocidad = Tiempo / Distancia"
+      ],
+      "correcta": 2,
+      "explicacion": "La fórmula básica de navegación es Distancia = Velocidad x Tiempo."
+    },
+    {
+      "texto": "¿Cuál es la diferencia entre rumbo verdadero y rumbo magnético?",
+      "opciones": [
+        "No hay diferencia, son iguales",
+        "El rumbo magnético se mide desde el norte geográfico",
+        "El rumbo verdadero se obtiene corrigiendo el magnético con declinación",
+        "El rumbo magnético se corrige con el desvío para obtener el verdadero"
+      ],
+      "correcta": 2,
+      "explicacion": "El rumbo verdadero se obtiene sumando o restando la declinación al rumbo magnético."
+    },
+    {
+      "texto": "¿Cómo se obtiene el rumbo de aguja desde el rumbo verdadero?",
+      "opciones": [
+        "Sumando declinación y desvío",
+        "Restando la corredera",
+        "Dividiendo por el tiempo",
+        "Sumando la deriva"
+      ],
+      "correcta": 0,
+      "explicacion": "Rumbo de aguja = Rumbo verdadero + declinación + desvío (corrección total)."
+    },
+    {
+      "texto": "¿Qué representa una escala de latitud en una carta náutica?",
+      "opciones": [
+        "Unidades para medir distancia vertical",
+        "Unidades para medir distancia en el eje norte-sur",
+        "Unidades para medir velocidad",
+        "Unidades para medir presión"
+      ],
+      "correcta": 1,
+      "explicacion": "La escala de latitud se usa para medir distancias en millas náuticas verticalmente sobre la carta."
+    },
+    {
+      "texto": "¿Cuál es el objetivo de una enfilación en carta náutica?",
+      "opciones": [
+        "Medir velocidad",
+        "Calcular profundidad",
+        "Definir una línea de posición segura",
+        "Averiguar presión atmosférica"
+      ],
+      "correcta": 2,
+      "explicacion": "Una enfilación permite situar el barco alineándolo con dos puntos (faros, torres, etc.) para garantizar una ruta segura."
+    },
+    {
+      "texto": "¿Para qué sirve el compás de puntas?",
+      "opciones": [
+        "Para medir velocidad",
+        "Para medir ángulos",
+        "Para trazar distancias en millas sobre la carta",
+        "Para calcular desvíos"
+      ],
+      "correcta": 2,
+      "explicacion": "El compás de puntas se utiliza para medir distancias entre puntos sobre la carta usando la escala de latitud."
+    }
+  ],
+  "resumenes": {
+    "general": [
+      "Transportador: mide rumbos y demoras sobre la carta.",
+      "1 milla náutica = 1.852 metros.",
+      "Demora verdadera: ángulo desde norte verdadero hasta un objeto.",
+      "Batimétricas = líneas de igual profundidad.",
+      "Fórmula básica: Distancia = Velocidad x Tiempo.",
+      "Rumbo verdadero se corrige con declinación; rumbo de aguja añade también el desvío.",
+      "La escala de latitud permite medir distancias verticalmente.",
+      "Enfilaciones ayudan a situar el barco alineando referencias visuales.",
+      "Compás de puntas: útil para medir distancias entre puntos en la carta."
+    ]
+  }
+}

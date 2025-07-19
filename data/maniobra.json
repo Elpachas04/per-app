@@ -1,0 +1,129 @@
+{
+  "tema": "Maniobra",
+  "general": [
+    {
+      "texto": "¿Cómo afecta la hélice a la maniobrabilidad en marcha atrás?",
+      "opciones": [
+        "No afecta en absoluto",
+        "Produce un efecto lateral llamado efecto evolutivo",
+        "Solo aumenta la velocidad",
+        "Permite girar más cerrado"
+      ],
+      "correcta": 1,
+      "explicacion": "En marcha atrás, la hélice genera un efecto lateral (efecto evolutivo o efecto de hélice), que desplaza la popa hacia un lado según su giro."
+    },
+    {
+      "texto": "¿Qué hace una embarcación cuando se pone el timón totalmente a babor con marcha avante?",
+      "opciones": [
+        "Gira a estribor",
+        "Gira a babor (izquierda)",
+        "Va en línea recta",
+        "La maniobra depende del viento"
+      ],
+      "correcta": 1,
+      "explicacion": "Con timón a babor y marcha avante, la embarcación girará hacia babor (izquierda)."
+    },
+    {
+      "texto": "¿Cómo se puede detener una embarcación en movimiento si no hay freno?",
+      "opciones": [
+        "Reduciendo la velocidad gradualmente",
+        "Poniendo el motor en punto muerto",
+        "Dando atrás con el motor (revoluciones inversas)",
+        "Cortando el timón"
+      ],
+      "correcta": 2,
+      "explicacion": "Para frenar un barco, se usa la máquina en sentido contrario (atrás) hasta detenerlo, compensando la inercia."
+    },
+    {
+      "texto": "¿Qué debe tenerse en cuenta al maniobrar en espacios reducidos?",
+      "opciones": [
+        "El viento y la corriente",
+        "La dirección de la proa",
+        "Solo la velocidad",
+        "La longitud del barco"
+      ],
+      "correcta": 0,
+      "explicacion": "Al maniobrar en zonas estrechas es fundamental considerar el viento y la corriente, ya que afectan la maniobrabilidad."
+    },
+    {
+      "texto": "¿Qué ocurre si se da mucha máquina atrás con hélice levógira?",
+      "opciones": [
+        "La popa se desplaza a babor",
+        "La proa gira hacia babor",
+        "El barco gira a estribor",
+        "La hélice pierde eficacia"
+      ],
+      "correcta": 0,
+      "explicacion": "Con hélice levógira (gira a la izquierda en marcha avante), al dar atrás, la popa tenderá a moverse hacia babor (izquierda)."
+    },
+    {
+      "texto": "¿Qué significa 'caer a babor'?",
+      "opciones": [
+        "Inclinar la embarcación por viento",
+        "Desplazarse lateralmente hacia babor",
+        "Girar la proa hacia babor (izquierda)",
+        "Romper la ola por babor"
+      ],
+      "correcta": 2,
+      "explicacion": "Caer a babor significa girar la proa hacia la izquierda, es decir, realizar una virada hacia babor."
+    },
+    {
+      "texto": "¿Cómo influye el viento en una maniobra de atraque con proa al viento?",
+      "opciones": [
+        "Facilita la maniobra",
+        "Complica el control del barco",
+        "No influye en absoluto",
+        "Impide el atraque"
+      ],
+      "correcta": 0,
+      "explicacion": "Con proa al viento, el barco tiende a mantener el rumbo y la maniobra es más controlada."
+    },
+    {
+      "texto": "¿Qué debe hacer el patrón antes de comenzar una maniobra?",
+      "opciones": [
+        "Pedir ayuda por radio",
+        "Observar entorno, preparar cabos y defensas",
+        "Hacer sonar la bocina",
+        "Poner rumbo al muelle"
+      ],
+      "correcta": 1,
+      "explicacion": "Antes de maniobrar se debe observar el entorno, preparar cabos y defensas, y comunicar la maniobra si es necesario."
+    },
+    {
+      "texto": "¿Qué parte del barco responde primero al movimiento del timón en marcha avante?",
+      "opciones": [
+        "La proa",
+        "La popa",
+        "Ambas al mismo tiempo",
+        "La hélice"
+      ],
+      "correcta": 0,
+      "explicacion": "En marcha avante, la proa (delante) responde primero al timón; en marcha atrás, lo hace la popa."
+    },
+    {
+      "texto": "¿Qué debe evitarse al maniobrar en puerto con embarcaciones cercanas?",
+      "opciones": [
+        "Usar defensas",
+        "Exceso de velocidad",
+        "Comunicar la maniobra",
+        "Mantener distancia"
+      ],
+      "correcta": 1,
+      "explicacion": "Debe evitarse la velocidad excesiva para no perder el control ni generar olas que afecten a otras embarcaciones."
+    }
+  ],
+  "resumenes": {
+    "general": [
+      "Efecto evolutivo: la hélice en marcha atrás desplaza la popa lateralmente.",
+      "Timón a babor con marcha avante = giro hacia babor.",
+      "Para frenar el barco se da máquina atrás.",
+      "Siempre tener en cuenta viento y corriente al maniobrar.",
+      "Hélice levógira en marcha atrás: la popa se va a babor.",
+      "Caer a babor: girar la proa hacia la izquierda.",
+      "Con proa al viento, la maniobra es más estable.",
+      "Preparar cabos, defensas y observar el entorno antes de maniobrar.",
+      "En marcha avante, responde primero la proa; en atrás, la popa.",
+      "Evitar velocidad excesiva en puerto o zonas estrechas."
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "tema": "Navegación",
+  "general": [
+    {
+      "texto": "¿Qué significa el término 'rumbo verdadero'?",
+      "opciones": [
+        "Rumbo magnético corregido por el desvío",
+        "Rumbo medido respecto al norte verdadero",
+        "Rumbo trazado en la carta respecto al sur",
+        "Rumbo respecto al eje del barco"
+      ],
+      "correcta": 1,
+      "explicacion": "El rumbo verdadero es el ángulo que forma la línea de rumbo con el norte verdadero geográfico."
+    },
+    {
+      "texto": "¿Qué es la corrección total?",
+      "opciones": [
+        "La suma de la declinación y el desvío",
+        "La diferencia entre rumbo de superficie y rumbo de aguja",
+        "El error producido por el viento",
+        "La suma de la corredera y el GPS"
+      ],
+      "correcta": 0,
+      "explicacion": "La corrección total es la suma del desvío (error del compás) y la declinación magnética (error geográfico)."
+    },
+    {
+      "texto": "¿Qué es una enfilación?",
+      "opciones": [
+        "Un sistema de medición de mareas",
+        "Una alineación de dos puntos utilizados como referencia para marcar un rumbo",
+        "Una carta náutica especial",
+        "Un tipo de boya"
+      ],
+      "correcta": 1,
+      "explicacion": "Una enfilación es la alineación visual de dos puntos de referencia (naturales o artificiales) para mantener el rumbo."
+    },
+    {
+      "texto": "¿Qué instrumento proporciona la velocidad del barco respecto al agua?",
+      "opciones": [
+        "GPS",
+        "Corredera",
+        "Sonda",
+        "Brújula"
+      ],
+      "correcta": 1,
+      "explicacion": "La corredera mide la velocidad del barco respecto al agua. El GPS da la velocidad respecto al fondo."
+    },
+    {
+      "texto": "¿Qué es la declinación magnética?",
+      "opciones": [
+        "El ángulo entre el rumbo y la proa",
+        "El ángulo entre el norte magnético y el norte verdadero",
+        "El ángulo entre la corredera y el compás",
+        "El ángulo de deriva por viento"
+      ],
+      "correcta": 1,
+      "explicacion": "La declinación magnética es la diferencia angular entre el norte geográfico (verdadero) y el norte magnético."
+    },
+    {
+      "texto": "¿Qué indica una línea batimétrica en la carta náutica?",
+      "opciones": [
+        "La dirección del viento",
+        "La profundidad constante del fondo",
+        "La dirección de las corrientes",
+        "La línea de costa"
+      ],
+      "correcta": 1,
+      "explicacion": "Las líneas batimétricas unen puntos de igual profundidad y ayudan a entender la morfología del fondo marino."
+    },
+    {
+      "texto": "¿Qué es la demora?",
+      "opciones": [
+        "El rumbo seguido por el barco",
+        "La distancia en millas recorrida",
+        "El ángulo entre el norte y un objeto observado",
+        "El retraso por marea"
+      ],
+      "correcta": 2,
+      "explicacion": "La demora es el ángulo medido desde el norte (generalmente verdadero o magnético) hacia un objeto observado."
+    },
+    {
+      "texto": "¿Qué es la marcación?",
+      "opciones": [
+        "Distancia desde un punto de referencia",
+        "Dirección desde la proa del barco hacia un objeto",
+        "Hora de paso por un punto",
+        "Variación del fondo marino"
+      ],
+      "correcta": 1,
+      "explicacion": "La marcación es el ángulo medido desde la proa del barco hasta el objeto observado."
+    },
+    {
+      "texto": "¿Qué instrumento mide la profundidad del fondo?",
+      "opciones": [
+        "Corredera",
+        "Sonda",
+        "Compás",
+        "Plotter"
+      ],
+      "correcta": 1,
+      "explicacion": "La sonda es el instrumento que mide la profundidad del fondo marino."
+    },
+    {
+      "texto": "¿Qué significa 'distancia en millas' en navegación?",
+      "opciones": [
+        "La distancia medida en kilómetros",
+        "Una milla náutica equivale a 1000 metros",
+        "Una milla náutica equivale a 1.852 metros",
+        "La distancia entre dos puntos del compás"
+      ],
+      "correcta": 2,
+      "explicacion": "Una milla náutica equivale a 1.852 metros y es la unidad usada en navegación marítima."
+    }
+  ],
+  "resumenes": {
+    "general": [
+      "Rumbo verdadero: medido respecto al norte geográfico.",
+      "Corrección total = declinación magnética + desvío.",
+      "Enfilación = alineación de puntos de referencia.",
+      "Corredera mide velocidad respecto al agua; GPS respecto al fondo.",
+      "Declinación magnética = diferencia entre norte verdadero y magnético.",
+      "Líneas batimétricas: profundidad constante en carta.",
+      "Demora = ángulo entre norte y objeto observado.",
+      "Marcación = ángulo desde la proa hacia el objeto.",
+      "Sonda = instrumento para medir profundidad.",
+      "1 milla náutica = 1.852 metros."
+    ]
+  }
+}

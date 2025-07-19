@@ -1,0 +1,248 @@
+{
+  "tema": "Amarre y fondeo",
+  "general": [
+    {
+      "texto": "¿Qué es una trapa en el contexto de amarre?",
+      "opciones": [
+        "Una defensa flotante",
+        "Un tipo de cabo de remolque",
+        "Un cabo unido a un muerto (bloque sumergido) para el amarre de proa",
+        "Un sistema de fondeo doble"
+      ],
+      "correcta": 2,
+      "explicacion": "Una trapa es un cabo amarrado a un muerto (bloque sumergido fijo al fondo) que se usa para sujetar la proa de la embarcación en amarres de pantalán."
+    },
+    {
+      "texto": "¿Qué es una defensa?",
+      "opciones": [
+        "Un sistema de remolque",
+        "Un elemento de seguridad personal",
+        "Un dispositivo blando que se coloca entre el casco y el muelle o entre embarcaciones",
+        "Una señal visual de fondeo"
+      ],
+      "correcta": 2,
+      "explicacion": "Las defensas son elementos blandos (generalmente inflables) que se colocan en los costados del barco para evitar daños al atracar o amarrar."
+    },
+    {
+      "texto": "¿Qué es un muerto?",
+      "opciones": [
+        "Una boya flotante",
+        "Un ancla ligera",
+        "Un bloque pesado sumergido usado para fondeo fijo",
+        "Una señal de emergencia"
+      ],
+      "correcta": 2,
+      "explicacion": "Un muerto es un bloque de gran peso que se deja en el fondo marino y al que se amarra un cabo (trapa) para fondeo o amarre fijo."
+    },
+    {
+      "texto": "¿Cuál es la longitud recomendada de cadena para fondear en fondo de arena?",
+      "opciones": [
+        "1 vez el fondo",
+        "3 a 5 veces la profundidad",
+        "10 metros sin importar el fondo",
+        "El doble de la eslora"
+      ],
+      "correcta": 1,
+      "explicacion": "La longitud del cabo o cadena debe ser de 3 a 5 veces la profundidad para asegurar un buen agarre del ancla, especialmente en fondo de arena."
+    },
+    {
+      "texto": "¿Qué tipo de fondo ofrece mejor agarre para fondeo?",
+      "opciones": [
+        "Rocoso",
+        "Arena o fango",
+        "Algas",
+        "Coral"
+      ],
+      "correcta": 1,
+      "explicacion": "El fondo de arena o fango es el más adecuado para fondear porque permite que el ancla se clave eficazmente."
+    },
+    {
+      "texto": "¿Qué precaución debes tomar al fondear cerca de otras embarcaciones?",
+      "opciones": [
+        "Dejar siempre el motor en marcha",
+        "Colocar una boya de remolque",
+        "Dejar espacio suficiente para el borneo (giro alrededor del ancla)",
+        "Atar el ancla a popa"
+      ],
+      "correcta": 2,
+      "explicacion": "Es importante dejar espacio para el borneo (movimiento circular del barco alrededor del ancla debido al viento o corriente)."
+    },
+    {
+      "texto": "¿Qué parte del barco se orienta normalmente hacia el viento al fondear?",
+      "opciones": [
+        "Proa (delante)",
+        "Popa (atrás)",
+        "Costado de babor (izquierda)",
+        "Costado de estribor (derecha)"
+      ],
+      "correcta": 0,
+      "explicacion": "El barco se coloca de forma natural con la proa (parte delantera) hacia el viento cuando está fondeado."
+    },
+    {
+      "texto": "¿Qué es el borneo?",
+      "opciones": [
+        "Un sistema de amarre a boya",
+        "La rotación del barco alrededor del ancla debido al viento o corriente",
+        "Una maniobra de atraque con motor",
+        "Una señal de fondeo nocturno"
+      ],
+      "correcta": 1,
+      "explicacion": "El borneo es el movimiento circular del barco alrededor del punto donde está fondeado."
+    },
+    {
+      "texto": "¿Qué precaución tomar antes de levantar el ancla?",
+      "opciones": [
+        "Poner rumbo de regreso",
+        "Asegurar todos los cabos",
+        "Encender luces de navegación",
+        "Asegurarse de que el ancla no esté enganchada y arrancar suavemente"
+      ],
+      "correcta": 3,
+      "explicacion": "Se debe comprobar que el ancla esté libre de obstáculos y subirla con cuidado para no dañar la hélice ni la cadena."
+    },
+    {
+      "texto": "¿Qué maniobra se realiza cuando se fondea con dos anclas en línea?",
+      "opciones": [
+        "Fondeo en abanico",
+        "Fondeo en V",
+        "Fondeo en línea de borneo",
+        "Fondeo en línea recta"
+      ],
+      "correcta": 3,
+      "explicacion": "El fondeo con dos anclas en línea recta sirve para minimizar el movimiento del barco en zonas estrechas o con fuerte corriente."
+    },
+    {
+      "texto": "¿Qué significa levar ancla?",
+      "opciones": [
+        "Soltar la cadena para fondear",
+        "Subir el ancla (dejar de estar fondeado)",
+        "Cambiar de amarre",
+        "Fijar el ancla al fondo"
+      ],
+      "correcta": 1,
+      "explicacion": "Levar ancla significa levantar el ancla para dejar el fondeo y volver a navegar."
+    },
+    {
+      "texto": "¿Qué cabo se utiliza para sujetar la embarcación desde popa (parte trasera) al pantalán?",
+      "opciones": [
+        "Trapa",
+        "Líneas de proa",
+        "Líneas de popa",
+        "Aparejo de remolque"
+      ],
+      "correcta": 2,
+      "explicacion": "Las líneas de popa (atrás) se utilizan para fijar la embarcación al pantalán por su parte trasera."
+    },
+    {
+      "texto": "¿Qué precaución se debe tomar al dar marcha atrás hacia un pantalán con trapa?",
+      "opciones": [
+        "Cortar el motor completamente",
+        "Tener lista la trapa y vigilar su tensión",
+        "Soltar el ancla a la vez",
+        "Maniobrar siempre con viento a favor"
+      ],
+      "correcta": 1,
+      "explicacion": "La trapa debe estar suelta y lista para recogerla desde proa sin que se enrede con la hélice."
+    },
+    {
+      "texto": "¿Qué se debe hacer antes de atracar en un muelle?",
+      "opciones": [
+        "Soltar defensas",
+        "Preparar cabos de amarre y defensas",
+        "Apagar todos los sistemas eléctricos",
+        "Levar ancla"
+      ],
+      "correcta": 1,
+      "explicacion": "Antes de atracar es fundamental tener listos los cabos y colocar correctamente las defensas para evitar daños."
+    },
+    {
+      "texto": "¿Qué se entiende por un amarre de punta?",
+      "opciones": [
+        "Amarre lateral sin trapa",
+        "Amarre con proa al muelle y popa libre",
+        "Amarre perpendicular al muelle (de proa o popa)",
+        "Amarre con dos anclas"
+      ],
+      "correcta": 2,
+      "explicacion": "El amarre de punta consiste en situar el barco perpendicular al muelle, ya sea de proa o de popa, sujetando el extremo opuesto con trapa o ancla."
+    },
+    {
+      "texto": "¿Qué es un noray?",
+      "opciones": [
+        "Un tipo de cabo de amarre",
+        "Un poste de hierro en el muelle donde se hacen firmes los cabos",
+        "Un gancho de remolque",
+        "Una defensa lateral"
+      ],
+      "correcta": 1,
+      "explicacion": "El noray es un poste metálico en el muelle que sirve para amarrar los cabos del barco."
+    },
+    {
+      "texto": "¿Qué es un spring en maniobras de amarre?",
+      "opciones": [
+        "Un tipo de ancla ligera",
+        "Un cabo que evita el movimiento longitudinal del barco",
+        "Una trapa especial para barcos grandes",
+        "Una boya de fondeo"
+      ],
+      "correcta": 1,
+      "explicacion": "El spring es un cabo que se utiliza para evitar que el barco se desplace hacia adelante o hacia atrás una vez atracado."
+    },
+    {
+      "texto": "¿Cuál es la mejor forma de soltar un ancla si el fondo es rocoso?",
+      "opciones": [
+        "Tirar fuerte hacia arriba",
+        "Dar pequeños tirones con el motor en retroceso",
+        "Esperar al cambio de marea",
+        "Mover el ancla en círculo"
+      ],
+      "correcta": 1,
+      "explicacion": "Si el ancla se engancha en fondo rocoso, conviene dar pequeños tirones con el motor para liberarla sin dañar el equipo."
+    },
+    {
+      "texto": "¿Qué debe hacerse si el ancla no garrea (no se agarra al fondo)?",
+      "opciones": [
+        "Aumentar velocidad",
+        "Volver a fondear soltando más cadena",
+        "Anclar de popa",
+        "Girar a babor"
+      ],
+      "correcta": 1,
+      "explicacion": "Si el ancla no agarra, se debe volver a fondear en otro lugar o soltar más cadena para mejorar el agarre."
+    },
+    {
+      "texto": "¿Qué indica una boya de color blanca con cruz roja en un puerto?",
+      "opciones": [
+        "Zona reservada a bañistas",
+        "Zona de fondeo prohibido",
+        "Zona de embarcaciones de salvamento",
+        "Zona para avituallamiento"
+      ],
+      "correcta": 1,
+      "explicacion": "Una boya blanca con cruz roja señala una zona donde está prohibido fondear."
+    }
+  ],
+  "resumenes": {
+    "general": [
+      "El muerto es un bloque sumergido pesado para fondeo fijo.",
+      "La trapa es el cabo que va del muerto al barco, normalmente hacia proa (delante).",
+      "El borneo es el giro del barco alrededor del ancla por efecto del viento o corriente.",
+      "La defensa protege el casco del barco al atracar.",
+      "Para fondear con seguridad se debe soltar entre 3 a 5 veces la profundidad del fondo.",
+      "El fondo ideal para fondear es arena o fango.",
+      "Siempre se fondea con la proa (parte delantera) orientada al viento.",
+      "Se debe dejar espacio suficiente al fondear para evitar colisiones con el borneo.",
+      "Antes de levar ancla (levantarla), comprobar que esté libre de obstáculos.",
+      "Con dos anclas en línea se evita el borneo excesivo en espacios reducidos.",
+      "Levar ancla = levantar el ancla para dejar el fondeo.",
+      "Las líneas de popa sujetan la parte trasera del barco al pantalán.",
+      "El spring es un cabo que evita el desplazamiento longitudinal del barco atracado.",
+      "El noray es el poste del muelle donde se amarran los cabos.",
+      "Antes de atracar, preparar defensas y cabos.",
+      "El amarre de punta es perpendicular al muelle (proa o popa).",
+      "Si el ancla no agarra, soltar más cadena o cambiar de lugar.",
+      "Para liberar un ancla en fondo rocoso, dar pequeños tirones con el motor.",
+      "Una boya blanca con cruz roja indica zona de fondeo prohibido."
+    ]
+  }
+}

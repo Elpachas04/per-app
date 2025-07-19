@@ -1,0 +1,164 @@
+{
+  "tema": "Legislación",
+  "general": [
+    {
+      "texto": "¿Qué título náutico habilita para gobernar una embarcación de recreo de hasta 15 metros de eslora?",
+      "opciones": [
+        "Licencia de Navegación",
+        "Patrón de Navegación Básica (PNB)",
+        "Patrón de Embarcaciones de Recreo (PER)",
+        "Capitán de Yate"
+      ],
+      "correcta": 2,
+      "explicacion": "El PER permite gobernar embarcaciones de hasta 15 metros de eslora y hasta 12 millas de la costa."
+    },
+    {
+      "texto": "¿Cuál es la vigencia del título de PER una vez expedido?",
+      "opciones": [
+        "5 años",
+        "10 años",
+        "Indefinida",
+        "Hasta los 70 años"
+      ],
+      "correcta": 1,
+      "explicacion": "El PER tiene una validez de 10 años, renovable, siempre que se acredite un reconocimiento médico en vigor."
+    },
+    {
+      "texto": "¿Qué requisito es obligatorio para obtener el título de PER?",
+      "opciones": [
+        "Tener experiencia previa",
+        "Superar una prueba práctica de vela",
+        "Aprobar un examen teórico, realizar prácticas de motor y de radio",
+        "Haber navegado al menos 300 millas"
+      ],
+      "correcta": 2,
+      "explicacion": "Para obtener el PER se requiere aprobar el examen teórico y realizar prácticas obligatorias de motor (16 h) y de radio (12 h)."
+    },
+    {
+      "texto": "¿Qué tipo de embarcación puede gobernar un titular del PER en aguas interiores marítimas?",
+      "opciones": [
+        "Solo motos náuticas",
+        "Cualquier embarcación de recreo sin límite",
+        "Embarcaciones de hasta 15 metros de eslora",
+        "Solo embarcaciones de vela"
+      ],
+      "correcta": 2,
+      "explicacion": "El PER habilita para el gobierno de embarcaciones de hasta 15 metros de eslora también en aguas interiores marítimas."
+    },
+    {
+      "texto": "¿Qué permiso permite navegar entre la península y Baleares con una embarcación de recreo?",
+      "opciones": [
+        "PNB",
+        "Licencia de Navegación",
+        "PER con habilitación complementaria",
+        "PER básico"
+      ],
+      "correcta": 2,
+      "explicacion": "El PER permite navegación entre la península y Baleares si se realiza una habilitación complementaria de 24 horas de prácticas de navegación."
+    },
+    {
+      "texto": "¿Qué documento es obligatorio llevar siempre a bordo en una embarcación de recreo?",
+      "opciones": [
+        "Libro de navegación",
+        "Título del patrón",
+        "Certificado de navegabilidad y seguro en vigor",
+        "Pasaporte del propietario"
+      ],
+      "correcta": 2,
+      "explicacion": "Es obligatorio llevar a bordo el certificado de navegabilidad, el seguro en vigor y, si se trata de zona habilitada, el rol de despacho y dotación."
+    },
+    {
+      "texto": "¿Qué edad mínima se exige para obtener el título de PER?",
+      "opciones": [
+        "14 años con autorización paterna",
+        "16 años",
+        "18 años",
+        "21 años"
+      ],
+      "correcta": 1,
+      "explicacion": "La edad mínima para obtener el PER es de 18 años, o 16 años con autorización paterna o del tutor legal."
+    },
+    {
+      "texto": "¿Qué ocurre si se navega sin título habilitante en zona que lo requiere?",
+      "opciones": [
+        "No tiene consecuencias si no hay daños",
+        "Se considera infracción administrativa grave",
+        "Solo se sanciona si hay accidente",
+        "No está regulado"
+      ],
+      "correcta": 1,
+      "explicacion": "Navegar sin el título requerido es una infracción administrativa que puede conllevar sanciones importantes."
+    },
+    {
+      "texto": "¿Qué embarcaciones están exentas de título náutico en aguas españolas?",
+      "opciones": [
+        "Las menores de 5 metros de eslora y 10 CV de potencia en navegación diurna",
+        "Solo embarcaciones de remo",
+        "Embarcaciones menores de 2 metros de eslora",
+        "Las de cualquier eslora si no salen del puerto"
+      ],
+      "correcta": 0,
+      "explicacion": "En España, se permite gobernar embarcaciones sin título si son menores de 5 m (motor) o 6 m (vela) y no superan los 10 CV, solo en navegación diurna y sin alejarse más de 2 millas."
+    },
+    {
+      "texto": "¿Qué título permite navegar embarcaciones de hasta 8 metros de eslora a motor?",
+      "opciones": [
+        "Licencia de Navegación",
+        "Patrón de Navegación Básica (PNB)",
+        "PER",
+        "Capitán de Yate"
+      ],
+      "correcta": 1,
+      "explicacion": "El PNB permite el gobierno de embarcaciones de hasta 8 metros de eslora y navegación hasta 5 millas de la costa."
+    },
+    {
+      "texto": "¿Qué zona de navegación permite el PER?",
+      "opciones": [
+        "Hasta 5 millas",
+        "Hasta 12 millas",
+        "Zonas costeras interiores únicamente",
+        "Hasta 60 millas con prácticas"
+      ],
+      "correcta": 1,
+      "explicacion": "El PER permite navegar hasta 12 millas desde la costa, y entre islas si se hace la habilitación adicional de travesía."
+    },
+    {
+      "texto": "¿Qué se considera una infracción leve según la normativa náutica recreativa?",
+      "opciones": [
+        "Navegar sin título",
+        "No llevar salvavidas suficientes",
+        "No exhibir la bandera correctamente",
+        "Exceso de pasaje superior al 50%"
+      ],
+      "correcta": 2,
+      "explicacion": "No izar la bandera o hacerlo de forma incorrecta se considera una infracción leve."
+    },
+    {
+      "texto": "¿Qué indica la letra 'Z' en una zona marítima española?",
+      "opciones": [
+        "Zona de navegación costera",
+        "Zona interior portuaria",
+        "Zona de uso restringido",
+        "Zona de baño"
+      ],
+      "correcta": 1,
+      "explicacion": "La letra 'Z' identifica una zona interior portuaria en la clasificación española de zonas de navegación."
+    }
+  ],
+  "resumenes": {
+    "general": [
+      "El PER habilita para gobernar embarcaciones de hasta 15 metros de eslora.",
+      "Se puede navegar hasta 12 millas de la costa, y entre península y Baleares con práctica adicional.",
+      "El título tiene una validez de 10 años renovable con reconocimiento médico.",
+      "Se requieren prácticas de motor (16h) y radio (12h) para obtener el PER.",
+      "La edad mínima es 18 años, o 16 con autorización paterna.",
+      "Es obligatorio llevar a bordo: certificado de navegabilidad y seguro.",
+      "Navegar sin título en zonas reguladas supone una infracción administrativa grave.",
+      "Embarcaciones menores de 5 m (motor) y 6 m (vela), con menos de 10 CV, no requieren título en navegación diurna (máx. 2 millas).",
+      "El PNB permite hasta 8 m de eslora y 5 millas de la costa.",
+      "El PER permite hasta 12 millas, y navegación entre islas si se realiza la habilitación adicional.",
+      "No exhibir correctamente la bandera es una infracción leve.",
+      "La letra 'Z' indica zonas interiores portuarias."
+    ]
+  }
+}

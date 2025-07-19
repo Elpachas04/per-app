@@ -1,0 +1,245 @@
+{
+  "tema": "Balizamiento",
+  "general": [
+    {
+      "texto": "¿Qué indica una boya con colores amarillo y negro, con dos conos hacia arriba?",
+      "opciones": [
+        "Peligro aislado",
+        "Marca cardinal norte",
+        "Marca de aguas navegables",
+        "Canal principal a babor"
+      ],
+      "correcta": 1,
+      "explicacion": "La marca cardinal norte es negra en la parte superior, amarilla en la inferior, y los conos apuntan hacia arriba."
+    },
+    {
+      "texto": "¿Qué significa una marca cardinal oeste?",
+      "opciones": [
+        "Lo seguro está al este de la marca",
+        "Lo seguro está al oeste de la marca",
+        "Marca el norte del peligro",
+        "Indica entrada de puerto"
+      ],
+      "correcta": 1,
+      "explicacion": "La marca cardinal oeste señala que se debe pasar por el oeste para evitar el peligro."
+    },
+    {
+      "texto": "¿Qué indica una boya con bandas verticales rojas y blancas?",
+      "opciones": [
+        "Aguas navegables en todos los sentidos",
+        "Zona de pesca prohibida",
+        "Canal a estribor",
+        "Zona militar"
+      ],
+      "correcta": 0,
+      "explicacion": "Las marcas de aguas navegables tienen franjas verticales rojas y blancas y están rodeadas de aguas seguras."
+    },
+    {
+      "texto": "¿Qué tipo de luz tiene una marca cardinal sur?",
+      "opciones": [
+        "Luz blanca con dos destellos",
+        "Luz blanca continua",
+        "Luz blanca con 6 destellos + 1 largo",
+        "Luz roja con grupo de 3"
+      ],
+      "correcta": 2,
+      "explicacion": "La marca cardinal sur tiene una luz blanca con seis destellos cortos seguidos de uno largo."
+    },
+    {
+      "texto": "¿Qué marca tiene colores rojos y negros y dos conos apuntando uno al otro (pico con pico)?",
+      "opciones": [
+        "Marca cardinal este",
+        "Marca de peligro aislado",
+        "Marca especial",
+        "Marca de aguas navegables"
+      ],
+      "correcta": 0,
+      "explicacion": "La marca cardinal este tiene conos en forma de reloj de arena y colores negro-rojo-negro."
+    },
+    {
+      "texto": "¿Qué significa una boya con una sola esfera negra en su marca superior?",
+      "opciones": [
+        "Marca de peligro aislado",
+        "Marca cardinal norte",
+        "Marca especial",
+        "Marca de aguas navegables"
+      ],
+      "correcta": 0,
+      "explicacion": "Una marca de peligro aislado tiene una boya con una sola esfera negra arriba."
+    },
+    {
+      "texto": "¿Qué indica una marca especial amarilla?",
+      "opciones": [
+        "Zona peligrosa no balizada",
+        "Zona especial (ej. ejercicios militares, cables submarinos)",
+        "Entrada a puerto",
+        "Peligro aislado"
+      ],
+      "correcta": 1,
+      "explicacion": "Las marcas especiales amarillas indican zonas como campos de regatas, áreas militares, etc."
+    },
+    {
+      "texto": "¿Qué marca lateral se debe dejar por babor al entrar en puerto en el sistema A?",
+      "opciones": [
+        "Roja (cilíndrica)",
+        "Verde (cónica)",
+        "Amarilla con cruz",
+        "Negra y roja"
+      ],
+      "correcta": 0,
+      "explicacion": "En el sistema A (Europa), la marca roja debe dejarse a babor al entrar en puerto."
+    },
+    {
+      "texto": "¿Cómo es la marca de canal preferente a estribor?",
+      "opciones": [
+        "Roja con una banda verde horizontal",
+        "Verde con una banda roja horizontal",
+        "Amarilla con luz azul",
+        "Negra con cruz blanca"
+      ],
+      "correcta": 1,
+      "explicacion": "Una marca de canal preferente a estribor es verde con una banda roja y se trata como una marca verde."
+    },
+    {
+      "texto": "¿Cuál es el color y forma de una marca lateral de estribor?",
+      "opciones": [
+        "Roja y cilíndrica",
+        "Verde y cónica",
+        "Amarilla y esférica",
+        "Negra con franjas blancas"
+      ],
+      "correcta": 1,
+      "explicacion": "En el sistema A, la marca lateral de estribor es verde y tiene forma cónica."
+    },
+    {
+      "texto": "¿Qué significa una boya con franjas horizontales negras y una sola bola negra en su parte superior?",
+      "opciones": [
+        "Zona de fondeo",
+        "Peligro aislado",
+        "Zona de paso seguro",
+        "Prohibido el paso"
+      ],
+      "correcta": 1,
+      "explicacion": "Las marcas de peligro aislado están pintadas de negro con una banda roja y llevan una sola bola negra."
+    },
+    {
+      "texto": "¿Qué tipo de marca se utiliza para señalizar una zona de vertidos o cables submarinos?",
+      "opciones": [
+        "Marca de peligro aislado",
+        "Marca cardinal",
+        "Marca especial",
+        "Marca de canal preferente"
+      ],
+      "correcta": 2,
+      "explicacion": "Las marcas especiales, de color amarillo, se usan para zonas de ejercicios militares, cables submarinos, etc."
+    },
+    {
+      "texto": "En el sistema IALA A, ¿qué marca se deja por estribor al salir de puerto?",
+      "opciones": [
+        "Roja cilíndrica",
+        "Verde cónica",
+        "Amarilla esférica",
+        "Negra cilíndrica"
+      ],
+      "correcta": 0,
+      "explicacion": "Al salir de puerto, la marca roja (babor) queda a estribor y la verde (estribor) queda a babor."
+    },
+    {
+      "texto": "¿Qué indica una marca cardinal con conos uno arriba y uno abajo?",
+      "opciones": [
+        "Cardinal oeste",
+        "Cardinal este",
+        "Peligro aislado",
+        "Cardinal sur"
+      ],
+      "correcta": 1,
+      "explicacion": "Los conos en forma de reloj de arena corresponden a la marca cardinal este."
+    },
+    {
+      "texto": "¿Qué luz tiene una marca cardinal oeste?",
+      "opciones": [
+        "Luz blanca con 9 destellos",
+        "Luz blanca continua",
+        "Luz blanca con 3 destellos",
+        "Luz roja intermitente"
+      ],
+      "correcta": 0,
+      "explicacion": "La marca cardinal oeste tiene una luz blanca con 9 destellos rápidos o muy rápidos."
+    },
+    {
+      "texto": "¿Qué significa una marca lateral verde con una forma cónica?",
+      "opciones": [
+        "Babor entrando a puerto",
+        "Estribor entrando a puerto",
+        "Canal preferente a babor",
+        "Zona de fondeo"
+      ],
+      "correcta": 1,
+      "explicacion": "En el sistema IALA A, la marca lateral verde (forma cónica) indica estribor entrando a puerto."
+    },
+    {
+      "texto": "¿Qué color tiene una marca cardinal sur?",
+      "opciones": [
+        "Amarillo arriba y negro abajo",
+        "Amarillo-negro",
+        "Negro arriba y amarillo abajo",
+        "Negro-negro"
+      ],
+      "correcta": 1,
+      "explicacion": "La cardinal sur es amarilla en la parte superior y negra en la inferior."
+    },
+    {
+      "texto": "¿Qué forma tiene la marca lateral de babor?",
+      "opciones": [
+        "Esférica",
+        "Cónica",
+        "Cilíndrica",
+        "Romboidal"
+      ],
+      "correcta": 2,
+      "explicacion": "Las marcas de babor tienen forma cilíndrica (también llamada tipo 'can')."
+    },
+    {
+      "texto": "¿Qué indica una marca con luz blanca, grupos de 6 destellos + 1 largo?",
+      "opciones": [
+        "Cardinal sur",
+        "Cardinal este",
+        "Cardinal oeste",
+        "Cardinal norte"
+      ],
+      "correcta": 0,
+      "explicacion": "La marca cardinal sur tiene una luz blanca con 6 destellos + 1 largo."
+    },
+    {
+      "texto": "¿Cuál es la forma habitual de una marca especial?",
+      "opciones": [
+        "Cilíndrica con topografía en cruz",
+        "Esférica amarilla",
+        "Cónica negra",
+        "Ninguna específica"
+      ],
+      "correcta": 3,
+      "explicacion": "Las marcas especiales no tienen una forma estandarizada obligatoria, aunque suelen tener una equis como marca superior."
+    }
+  ],
+  "resumenes": {
+    "general": [
+      "El sistema de balizamiento IALA A se usa en Europa.",
+      "Las marcas cardinales indican la dirección segura respecto a un peligro.",
+      "La marca cardinal norte tiene dos conos hacia arriba y colores negro-amarillo.",
+      "La marca cardinal sur tiene dos conos hacia abajo y colores amarillo-negro.",
+      "La marca de aguas navegables es blanca y roja a franjas verticales.",
+      "Las marcas especiales son amarillas y señalan zonas especiales.",
+      "Las marcas laterales indican cómo entrar al puerto: rojas a babor, verdes a estribor.",
+      "Las marcas de canal preferente combinan colores indicando la preferencia de paso.",
+      "Las marcas de peligro aislado son negras con una esfera negra arriba.",
+      "La luz de una cardinal sur es 6 destellos cortos + 1 largo.",
+      "La marca cardinal oeste tiene conos base con base y luz blanca de 9 destellos.",
+      "Las marcas laterales verdes son cónicas y se dejan a estribor al entrar.",
+      "Las marcas de canal preferente indican la mejor vía de navegación.",
+      "Las marcas de peligro aislado son negras con una bola negra arriba.",
+      "Las marcas especiales son amarillas y pueden tener forma libre.",
+      "Las luces de las marcas cardinales indican su posición relativa (N, S, E, W)."
+    ]
+  }
+}
